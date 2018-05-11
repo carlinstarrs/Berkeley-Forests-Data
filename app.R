@@ -29,9 +29,6 @@ for (i in 1:nrow(table.names)) {
 # Define UI for data download app ----
 ui <- fluidPage(
   
-  # App title ----
-  titlePanel("Downloading Data"),
-  
   fluidRow(
     column(6,
            #Sidebar panel for inputs
@@ -39,16 +36,20 @@ ui <- fluidPage(
                                   choices = table.names$x),
                       
                       # Button
-                      downloadButton("downloadData", "Download")
+                      downloadButton("downloadData", "Download Table")
            )
     ), 
-    column(6,"")
-  ), 
+    column(3, 
+           wellPanel(
+             downloadButton('downloadAllData', 'Download All Data')
+           )
+    ),
+    column(3,"")
+  ),
   fluidRow(
     column(12,
-           #Sidebar panel for inputs
-verbatimTextOutput("summary"),
-                      tableOutput("table")
+           uiOutput("summary"),
+           tableOutput("table")
 
     )
   )
@@ -56,7 +57,12 @@ verbatimTextOutput("summary"),
 
 
 server <- function(input, output) {
+  x <- nrow(table.names)
+  all.data <- vector(mode="list", length=nrow(table.names))
   
+  for (i in 1:nrow(table.names)) {
+    all.data[[i]] <- get(paste0(table.names$x))
+  }
   # Reactive value for selected dataset ----
   datasetInput <- reactive({ switch(input$dataset, get(paste0(table.names$x[which(table.names$x == input$dataset)])))
   })
@@ -71,9 +77,9 @@ server <- function(input, output) {
     head(datasetInput(), n)
   }, spacing = 'xs')
   
-  output$summary <- renderPrint({
+  output$summary <- renderUI({
     if(nrow(datasetInput()) > 50) {
-      "Note: Due to size limitations, only first 30 rows of data are shown below. To view the complete dataset, use the Download button to the left"
+      wellPanel("Note: Due to size limitations, only the first 30 rows of data are shown below. To view the complete dataset, use the Download button above")
     }
   })
   
@@ -84,6 +90,32 @@ server <- function(input, output) {
     },
     content = function(file) {
       write.csv(datasetInput(), file, row.names = FALSE)
+    }
+  )
+  
+  output$downloadAllData <- downloadHandler(
+    
+    filename = function(){
+      paste0("Blodgett.Data",".zip")
+      
+    },
+    
+    content = function(file) {
+      # write.csv(dataInput()[[2]], file, row.names = FALSE)
+      owd <- setwd(tempdir())
+      on.exit(setwd(owd))
+      files <- NULL;
+      
+      #loop through the sheets
+      for (i in 1:length(all.data)){
+        #write each sheet to a csv file, save the name
+        name.list <- table.names$x
+        fileName <- paste(name.list[i],".csv",sep = "")
+        write.csv(all.data[[i]],fileName,row.names = F)
+        files <- c(fileName,files)
+      }
+      #create the zip file
+      zip(file,files)
     }
   )
   
