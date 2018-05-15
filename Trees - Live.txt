@@ -1,0 +1,17 @@
+TREES – LIVE :This table contains individual live tree record data for trees greater than 4.5 feet tall.	
+	
+InvID	 primary key
+PlotID	 secondary key
+Treenum	 tree number
+InvDate	 measurement date
+Species	 two letter species code.  Only codes listed in the TREE NAMES Table are accepted
+Ddh	 Diameter at Brest Height (to the nearest 0.1 inches)
+Theight	 Total height to the nearest foot
+Crclass	 One letter Crown class code
+Heightcb Height to Crown Base.  The distance from the ground to the base of the living branches
+Damdis	 field containing one letter codes referring to damage and disease signs on the tree
+Folqual	 one letter foliage quality codes referring to crown health.
+Comment	 any relevant other information for the tree
+Radgro10 Ten year radial growth to the nearest 0.05 inches.  Only taken at initial inventories
+Radgro5	 Five year radial growth to the nearest 0.05 inches.  Only taken at initial inventories
+Weight	 the per acre weight of the tree (if the tree is on a 1/10th acre plot then weight = 10)

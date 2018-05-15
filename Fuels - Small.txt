@@ -1,0 +1,17 @@
+Fuels – Small: This table contains information on fuels data that is less than 3 inches in diameter.  Generally there are 0, 1, or 2 fuel lines per inventory event (InvID)	
+	
+InvID	 primary key
+PlotID	 secondary key
+InvDate	 measurement date
+Azimuth	 direction of fuel line (1 to 360 degrees)
+Species	 primary species composition of fuel on this fuel line
+To#24Inch	 count of less than 0.25 inch fuel pieces bisecting the line
+To1Inch	 count of 0.25 to less than 1 inch fuel pieces bisecting the line
+To3Ince	 count of 1 to less than 3 inch fuel pieces bisecting the line
+1FtDuff	 depth of duff at 1 foot distance on line
+1FtLitter	 depth of Litter at 1 foot distance on line
+3FtDuff	 depth of duff at 3 foot distance on line
+3FtLitter	 depth of litter at 3 foot distance on line
+1FtFuel	 depth of total fuel at 1 foot distance on line
+2FtFuel	 depth of total fuel at 2 foot distance on line
+3FtFuel	 depth of total fuel at 3 foot distance on line

@@ -1,0 +1,18 @@
+TREES – SNAG :This table contains individual dead and standing tree record data for trees greater than 4.5 feet tall and 4.5 inches DBH.	
+	
+InvID	 primary key
+PlotID	 secondary key
+InvDate	 measurement date
+Treenum	 tree number
+Species	 two letter species code.  Only codes listed in the TREE NAMES Table are accepted
+ddh	 Diameter at Brest Height (to the nearest 0.1 inches)
+Toppres	 Is the top present (Y) or has it broken off (N)
+Woodpeck	 is there evidence of woodpecker activity
+Barkcond	 Percent of remaining bark on the stem to the nearest 5%
+Theight	 Total height to the nearest foot
+Cdeath	 a one letter code for the cause of death
+Yrdeath	 one digit code for time number of years since death
+Whard	 one digit code for wood hardness. 1= hard to 5 = very soft
+Nesthole	 the number of nest holes present
+Limbcond	 one letter code for limb condition. A = newly dead to E = no limbs
+Comment	 any relevant other information for the tree

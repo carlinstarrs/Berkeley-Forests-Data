@@ -1,0 +1,7 @@
+Fuels – Large: This table contains information on 3 inch and greater fuel pieces on fuel transects.  There is one record for each piece of fuel of this size.
+InvID
+PlotID
+InvDate
+Azimuth
+Decay Facter
+Size

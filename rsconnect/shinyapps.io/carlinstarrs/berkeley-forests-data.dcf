@@ -5,6 +5,6 @@ account: carlinstarrs
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 341358
-bundleId: 1369112
+bundleId: 1375592
 url: https://carlinstarrs.shinyapps.io/berkeley-forests-data/
-when: 1526059794.65534
+when: 1526415824.35479

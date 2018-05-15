@@ -1,0 +1,10 @@
+Plots: This Table contains primary plot information.  This table is linked to the compartments table through the compnum field.  All records in this table must have a valid entry in this field. This table is linked to all other primary data tables through the Plotid field.												
+												
+PlotID	 A 10-digit charcter field, format “CCCC-PPPPP”, where CCCC = the compartment number and PPPPP = the plot number.  Ex: compartment 10, plot 26 would be written 0010-00026.  Plots greater than 50 and less than 500 are regeneration plots. Plots in the 50000 series are group regeneration plots.  Plots number 999 refers to special plots usually encorperating the entire compartment.											
+Compnum	 The compartment number											
+Aspect	 Aspect in one of the cardinal directions (N, NE, E, SE, S, SW, W, NW).  F = flat or no direction.											
+SoilType	 a one or two digit code.											
+Slope	 Average plot slope in percent.											
+Topo	 Topographic position on the slope from ridgetop to Valley/creek bottom.											
+Elev	 Plot elevation in feet above sea level.											
+Comments	 a 256 character field containing othe relevant information on the plot.											

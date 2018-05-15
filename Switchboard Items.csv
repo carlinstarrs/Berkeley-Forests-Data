@@ -1,7 +1,0 @@
-"SwitchboardID","ItemNumber","ItemText","Command","Argument"
-1,0,"Main Switchboard",0,"Default"
-1,1,"Inventory Reports",3,"Compartment-Plot Inventory Reports"
-1,2," Inventory Comparison Reports",3,"Compartment-Plot Inventory Comparison Reports"
-1,3,"Cactos Output",3,"CACTOS Output"
-1,4,"Last Inventory Report",4,"Compartment - Last Inventory"
-1,5,"Plot Inventory Detail Listing",3,"Plot Inventory Detail Reports"

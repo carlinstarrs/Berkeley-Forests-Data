@@ -1,0 +1,839 @@
+"CompNum","Action","Description","Start","Finish","Document Location","Year"
+10,"i,est","Establishment Inventory","1974-08-01 00:00:00",NA,"I,U",1974
+10,"i","Inventory (1/20 acre plots, plots 2,4,6,9,10)","1979-08-01 00:00:00",NA,"I,U",1979
+10,"i","Inventory","1980-05-01 00:00:00",NA,"I",1980
+10,"h,gs","Small Group Harvest","1981-01-01 00:00:00",NA,"C",1981
+10,"stp,pi","Site prepared for slash burning and planting","1981-09-03 00:00:00","1981-09-03 00:00:00","C",1981
+10,"w,hb,24d","Herbicide Spray on TanOaks only","1982-08-10 00:00:00","1982-08-25 00:00:00","C",1982
+10,"i,reg","Regeneration survey","1982-09-09 00:00:00",NA,"C,R",1982
+10,"i","Inventory","1983-07-01 00:00:00",NA,"I,U",1983
+10,"w,hb,24d","Herbicide spray of 24d on TanOaks--Six 1 acre patch cuts covered","1983-07-15 00:00:00",NA,"C",1983
+10,"i,reg","Regeneration survey","1983-09-06 00:00:00",NA,"R",1983
+10,"w,hb,ru","Herbicide spray of RoundUp and 24d--Six 1 to 1.5 acre areas covered","1984-07-17 00:00:00","1984-07-19 00:00:00","C,U",1984
+10,"m","Measurement of seedlings to determine effectiveness of herbicide","1984-09-13 00:00:00","1984-09-14 00:00:00","C,U",1984
+10,"i,reg","Regeneration survey","1984-09-13 00:00:00",NA,"R",1984
+10,"m","Defoliation Study","1986-01-01 00:00:00","1988-01-01 00:00:00","C,U",1986
+10,"w,hb,gar","Herbicide Spray","1986-08-26 00:00:00",NA,"C,U",1986
+10,"i,rem","Inventory","1988-07-05 00:00:00","1988-07-13 00:00:00","C,I,U",1988
+10,"h,gs","Group Harvest","1990-04-21 00:00:00","1991-05-31 00:00:00","C",1990
+10,"stp,pi,sl","Prepare for site prep by tractor piling","1990-07-12 00:00:00","1990-07-16 00:00:00","C,U",1990
+10,"i,m","Location of original plots","1990-08-29 00:00:00",NA,"C,U",1990
+10,"stp,pi,bc","Site prep group cuts using tractor to pile and hand crew to cut brush","1990-09-24 00:00:00",NA,"C,U",1990
+10,"m","Measured DBH height","1991-01-08 00:00:00",NA,"C,I",1991
+10,"cu,p","Tree Planting","1991-04-22 00:00:00","1991-04-29 00:00:00","C,U",1991
+10,"m","Marked WPBR trees 19 & 22","1991-09-05 00:00:00","1991-10-04 00:00:00","C,U",1991
+10,"cu","Placed aluminum ladders in superior Sugar Pines","1992-08-06 00:00:00","1992-08-10 00:00:00","C,U",1992
+10,"i","Inventory","1993-07-22 00:00:00","1993-08-05 00:00:00","C,U",1993
+20,"i","Inventory","1976-07-19 00:00:00","1976-07-26 00:00:00","U,I",1976
+20,"i,rem","Remeasurement inventory","1984-08-13 00:00:00","1984-08-15 00:00:00","C,U,I",1984
+20,"i,reg","Regen Inventory","1985-07-22 00:00:00",NA,NA,1985
+30,"h,or","Harvest--overstory removal, 33 acrexs","1981-06-25 00:00:00","1981-08-01 00:00:00",NA,1981
+30,"cu,pct","Precommercial thin","1982-08-01 00:00:00",NA,"U",1982
+30,"i,rem","Remeasurement inventory","1983-06-17 00:00:00","1983-06-21 00:00:00","U,I",1983
+31,"w,hb,ru","Herbicide Spray, RoundUp, covering 3 acres","1984-07-25 00:00:00","1984-07-26 00:00:00","C,U",1984
+40,"hb,tor","Black Oak poisoning to determine most effective concentration","1975-09-14 00:00:00",NA,"C",1975
+40,"i","Inventory","1978-08-01 00:00:00",NA,"I",1978
+40,"i,prt","Preharvest Inventory--measured only DBH's and D&D","1983-08-10 00:00:00","1983-08-11 00:00:00","C,U,I",1983
+40,"h,ct","Harvest--commercial thinning, 40 acres","1985-04-01 00:00:00","1986-08-26 00:00:00","C",1985
+40,"i","Inventory","1985-06-01 00:00:00",NA,"I",1985
+40,"m","White fir research--foliage removed and trees felled","1986-07-02 00:00:00","1986-07-28 00:00:00","C",1986
+40,"cu","Placed aluminum ladders in superior Sugar Pines","1992-08-06 00:00:00","1992-08-10 00:00:00","C,U",1992
+50,"i,est","Inventory establishment","1975-06-01 00:00:00",NA,"I",1975
+50,"cu,pct","Timber stand improvement using PCT","1975-08-01 00:00:00",NA,"C",1975
+50,"h,gs","Harvest--group selection, 58 acres","1976-01-01 00:00:00",NA,"C",1976
+50,"i,rem","Remeasurement inventory","1977-06-01 00:00:00",NA,"I",1977
+50,"i,reg","Regeneration survey","1979-07-01 00:00:00",NA,"C,R",1979
+50,"i,reg","Regeneration Survey","1980-08-01 00:00:00",NA,"U,R",1980
+50,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"C",1981
+50,"w,hb,24d","Herbicide spray on Tan Oaks only","1982-08-20 00:00:00","1982-08-25 00:00:00","C,U",1982
+50,"i,reg","Regeneration survey","1982-09-01 00:00:00",NA,"R",1982
+50,"w,hb,24d","Herbicide spray of Tanoaks in patch cuts","1983-07-07 00:00:00",NA,"C,U",1983
+50,"i,est","Plot expansion and inventory","1983-07-22 00:00:00","1983-07-29 00:00:00","C,U,I",1983
+50,"w,bc","Brush cutting","1983-08-02 00:00:00","1983-08-04 00:00:00","C,U",1983
+50,"h,gs","Harvest--group selection, 5 acres","1984-07-01 00:00:00","1985-05-15 00:00:00","C",1984
+50,"w,hb,24d","Spraying of all non-tree vegetation--4 acres covered","1984-07-27 00:00:00","1984-07-30 00:00:00","C,I,U",1984
+50,"cu,p","Seedling Planting","1985-05-25 00:00:00","1985-06-06 00:00:00","C,U",1985
+50,"cu,pct","Precommercial thin of 3 plantations","1986-08-01 00:00:00",NA,"C",1986
+50,"w,hb,gar","Herbicide spray in northernmost group cut to tan oak","1986-08-20 00:00:00","1986-08-25 00:00:00","C,U",1986
+50,"w,hb,ru","Herbicide aplication to all non-tree vegetation, covering 6 acres","1989-06-06 00:00:00","1989-06-13 00:00:00","C,U",1989
+50,"i,prt","Measure DBH & height of codominant trees","1991-01-08 00:00:00",NA,"C,U",1991
+60,"i,est","Inventory establishment","1975-07-01 00:00:00",NA,"I",1975
+60,"h","Regulatory harvest operations","1976-04-01 00:00:00","1976-10-22 00:00:00","C,U",1976
+60,"i,reg","Regeneration survey","1976-09-01 00:00:00",NA,"C",1976
+60,"i,rem","Remeasurement inventory","1979-08-01 00:00:00",NA,"I",1979
+60,"h,f","Black Oak stumpage harvested","1982-05-11 00:00:00","1982-07-22 00:00:00","C,U",1982
+60,"i,rem","Inventory","1985-06-01 00:00:00",NA,"C,U,I",1985
+60,"w,bc","Brush cutting--4 acres covered","1988-07-01 00:00:00",NA,"C,U",1988
+60,"i,rem","Remeasurement inventory","1988-07-14 00:00:00","1988-07-21 00:00:00","C,U,I",1988
+60,"h,gs","Group selection harvest","1989-01-01 00:00:00","1989-10-31 00:00:00","C",1989
+60,"i,rem","Remeasurement inventory","1989-07-28 00:00:00","1989-08-01 00:00:00","C,U,I",1989
+60,"cu,p","Hand plant bare root seedlings","1990-04-25 00:00:00","1990-04-26 00:00:00","C,U",1990
+60,"w,hb,ru","Herbicide spray of CEIN, ARPA, and CHFO in 4 plots","1990-07-09 00:00:00","1990-07-10 00:00:00","C",1990
+60,"cu,pct","Precommercial thinning of trees to 1/20 of an acre","1990-09-13 00:00:00",NA,"C,U",1990
+60,"w,hb,ru","Herbicide app. to CEIN, CHFO, RIRO, CIVU, and CECO--75 acres covered","1992-06-08 00:00:00","1992-06-18 00:00:00","C,U",1992
+60,"i,rem","Remeasurement inventory","1992-08-11 00:00:00","1992-08-18 00:00:00","C,U,I",1992
+70,"cu,pct","Timber stand improvement on one stand of young cedar","1975-09-01 00:00:00",NA,"C",1975
+70,"h","Some kind of harvesting","1976-04-01 00:00:00",NA,"C",1976
+70,"i","Inventory","1978-08-21 00:00:00","1978-08-23 00:00:00","U,I",1978
+70,"i,rem","Remeasurement inventory","1985-07-15 00:00:00","1985-07-17 00:00:00","C,U,I",1985
+70,"h,ct","Commercial thinning","1989-01-01 00:00:00","1989-10-31 00:00:00","C",1989
+70,"cu,pct","Thinning trees to 8 trees per 1/20 acre","1990-08-16 00:00:00","1990-09-06 00:00:00","C,U",1990
+70,"m","Mark WPBR trees 19 & 22 for relocation and indentification","1991-09-05 00:00:00","1991-10-04 00:00:00","C,U",1991
+70,"cu","Placed aluminum ladders in superior Sugar Pines","1992-08-06 00:00:00","1992-08-10 00:00:00","C,U",1992
+70,"i,rem","Post-harvest inventory","1993-07-14 00:00:00","1993-07-20 00:00:00","C,I",1993
+80,"i","Inventory","1978-07-19 00:00:00","1978-07-31 00:00:00","U,I",1978
+80,"h,sw,sd","Shelterwood, seed cut, harvest","1985-04-01 00:00:00","1988-02-26 00:00:00","C,U",1985
+80,"i,rem","Remeasurement inventory","1985-06-03 00:00:00","1985-07-12 00:00:00","C,U,I",1985
+80,"m","Tree marking in preparation for commercial thinning","1985-08-02 00:00:00",NA,"C",1985
+80,"w,hb,gar,sl","Herbicide spray on Tan Oak; Site preparation of SW cut","1986-09-30 00:00:00",NA,"C,U",1986
+80,"w,hb,gar","Herbicide spray on Tan Oak, entire compartment","1987-08-17 00:00:00",NA,"C,U",1987
+80,"w,hb,gar","Herbicide spray Tan Oak, large thistle, and gooseberry in 35 acres","1989-07-10 00:00:00","1989-07-14 00:00:00","C,U",1989
+80,"i,reg,est","Regeneration survey, plot establishment","1989-11-01 00:00:00",NA,"C",1989
+80,"stp,brn","Burned piles of slash","1989-11-28 00:00:00","1989-11-29 00:00:00","C",1989
+80,"cu,p","Hand plant bare root seedlings","1990-05-01 00:00:00",NA,"C,U",1990
+80,"i,reg","Regeneration survey","1990-06-06 00:00:00","1990-06-22 00:00:00","R",1990
+80,"m","Monitoring of grazing acitivity","1991-06-24 00:00:00","1991-07-03 00:00:00","C,U",1991
+90,"i","Inventory","1978-08-01 00:00:00",NA,"I",1978
+90,"h,ct","Commercial thinning to > 22.7 square meteres per ha--25 acres covered","1985-04-01 00:00:00","1986-08-26 00:00:00","C",1985
+90,"i,rem","Remeasurement inventory","1985-06-11 00:00:00","1985-06-13 00:00:00","C,U,I",1985
+90,"cu,pct","Precommercial thinning","1987-09-01 00:00:00",NA,"C,U",1987
+90,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+100,"i","Inventory","1977-09-12 00:00:00","1977-09-14 00:00:00","U,I",1977
+100,"i,est","Preharvest inventory","1983-08-01 00:00:00",NA,"C,U",1983
+100,"h,sw,rm","Overstory removal--33 acres harvested","1984-04-13 00:00:00","1985-02-01 00:00:00","C",1984
+100,"m","Tree marking prior to overstory removal","1984-07-03 00:00:00","1984-07-04 00:00:00","C,U",1984
+100,"cu,pct","Precommercial thinning to 170 trees/acre","1985-06-10 00:00:00","1986-07-26 00:00:00","C",1985
+100,"i,rem","Remeasurement inventory","1985-08-05 00:00:00","1985-08-06 00:00:00","C,U,I",1985
+100,"cu,pct","Precommercial thinning","1986-07-01 00:00:00",NA,"C,U",1986
+100,"w,hb,ru","Herbicide spray on bear-clover--27.8 acres covered","1988-06-23 00:00:00",NA,"C,U",1988
+101,"i","Inventory (every tree in a 6 acre area)","1982-09-01 00:00:00",NA,"I",1982
+101,"i,prt,rh","Inventory to determine growth rates","1984-05-01 00:00:00",NA,"C,U,I",1984
+101,"rh","Approximately 1820 trees mapped on an x-y grid system","1984-06-25 00:00:00","1984-07-26 00:00:00","C",1984
+101,"i,rem","Obtained accurate crown data for trees 1-224","1984-09-07 00:00:00","1984-09-10 00:00:00","C,U,I",1984
+101,"i","Inventory","1985-04-01 00:00:00",NA,"I",1985
+101,"i,reg","Regeneration/ingrowth survey","1990-10-05 00:00:00",NA,"C,R",1990
+110,"i,est","Inventory establishment","1975-07-01 00:00:00",NA,"I",1975
+110,"i","Inventory","1980-07-01 00:00:00",NA,"I",1980
+110,"h,gs","Group selection harvest","1981-04-01 00:00:00","1982-12-15 00:00:00","C",1981
+110,"i","Aggregation description","1981-05-01 00:00:00",NA,"C",1981
+110,"cu,pct","Precommercial thinning--25 acres","1982-08-09 00:00:00","1982-08-26 00:00:00","C,U",1982
+110,"cu,pct","Precommercial thinning","1983-06-15 00:00:00","1983-06-27 00:00:00","C,U",1983
+110,"i,rem","Postharvest inventory","1983-06-18 00:00:00","1983-07-05 00:00:00","C,U,I",1983
+110,"w,hb,ru","Herbicide spray of all non-tree vegetation in southeast corner","1984-08-02 00:00:00",NA,"C,U",1984
+110,"cu,p","Planting in group selection cuts","1985-04-22 00:00:00","1985-05-06 00:00:00","C,U",1985
+110,"cu,ip","Interplanting in group selection cuts","1986-05-09 00:00:00",NA,"C,U",1986
+110,"w,hb,gar","Herbicide spray of Tan Oak, Chinq. and Manz. in 1.5 acres","1987-08-21 00:00:00",NA,"C,U",1987
+120,"i,est","Inventory establishment","1976-08-01 00:00:00",NA,"I",1976
+120,"i","Inventory","1981-08-01 00:00:00",NA,"I",1981
+121,"i","Inventory","1976-08-01 00:00:00",NA,"I",1976
+121,"h,ct","Thinning","1980-04-01 00:00:00",NA,"C",1980
+121,"i","Inventory","1981-08-01 00:00:00",NA,"I",1981
+122,"m","Marked Oak trees for retention","1979-06-19 00:00:00",NA,"C",1979
+122,"i","Inventory","1981-08-01 00:00:00",NA,"I",1981
+130,"i,est","Inventory establishment","1975-07-01 00:00:00",NA,"U,I",1975
+130,"i","Stocking survey","1977-09-01 00:00:00",NA,"U",1977
+130,"cu,jp","Jill poking following '77 removal","1978-06-19 00:00:00","1978-07-07 00:00:00","C",1978
+130,"i,reg","Regeneration inventory","1980-04-27 00:00:00",NA,"U,I",1980
+130,"w,hb,24d","Herbicide spray of Tan Oak","1983-07-15 00:00:00",NA,"C,U",1983
+130,"i,rem","Remeasurement inventory","1985-07-15 00:00:00","1985-07-22 00:00:00","C,U,I",1985
+130,"w,hb,ru","Herbicide spray of bear clover--11.4 acres covered","1988-06-23 00:00:00","1988-06-27 00:00:00","C,U",1988
+130,"i,rem","Remeasurement inventory","1988-07-01 00:00:00","1988-08-01 00:00:00","C,U,I",1988
+130,"i","Inventory updated","1992-10-22 00:00:00",NA,"U",1992
+140,"i","Inventory","1977-08-05 00:00:00","1977-09-14 00:00:00","U,I",1977
+140,"i,rem","Remeasurement inventory","1985-06-07 00:00:00","1985-07-09 00:00:00","C,U,I",1985
+141,"i","Inventory","1977-08-01 00:00:00",NA,"I",1977
+141,"h,ct","Commercial thinning of 39 acres","1980-04-01 00:00:00","1981-09-15 00:00:00","C",1980
+141,"cu,jp","Jillpoking","1981-06-17 00:00:00","1981-06-30 00:00:00","C",1981
+141,"i,rem","Remeasurement inventory","1983-08-11 00:00:00","1983-08-16 00:00:00","C,U,I",1983
+141,"h","Some kind of harvest","1985-04-01 00:00:00","1985-10-10 00:00:00","C",1985
+141,"i,rem","Remeasurement inventory","1985-06-07 00:00:00",NA,"C,U,I",1985
+141,"i","Location of original plots","1990-07-31 00:00:00",NA,"C,U",1990
+141,"cu,jp,sl","Slashing and Jillpoking after clearcut","1990-08-03 00:00:00",NA,"C",1990
+141,"stp,pi,tct","Site preparation--piling slash for burning","1990-10-16 00:00:00",NA,"C,U",1990
+141,"cu,p","Bareroot planting","1991-05-08 00:00:00","1991-05-28 00:00:00","C,U",1991
+141,"m","Spool found by CCC","1991-05-10 00:00:00","1991-05-16 00:00:00","C,U",1991
+141,"cu,p","Replacement of dead seedlings","1992-04-24 00:00:00","1992-05-08 00:00:00","C,U",1992
+141,"cu,ip","Hand interplanting of mixed conifer bareroot seedlings","1993-04-22 00:00:00","1993-04-27 00:00:00","C,U",1993
+142,NA,NA,NA,NA,NA,NA
+150,"i","Inventory","1978-06-01 00:00:00",NA,"I",1978
+150,"i,rem","Remeasurement inventory","1983-07-18 00:00:00","1983-07-20 00:00:00","C,U,I",1983
+150,"w,hb,24d","Herbicide spray of 24d on all non-tree veg.--16 acre clear-cut area","1984-07-11 00:00:00","1984-07-16 00:00:00","C",1984
+150,"m","Preparation for commercial thin","1991-10-24 00:00:00","1991-11-19 00:00:00","C,U",1991
+150,"i,rem","Remeasurement inventory","1992-10-21 00:00:00","1992-10-22 00:00:00","C,I",1992
+151,"i","Inventory","1978-07-01 00:00:00",NA,"I",1978
+151,"h,ct,cc","46 acres thinned, 12 acres clear cut","1982-04-01 00:00:00","1983-10-15 00:00:00","C",1982
+151,"h,f","Cutting of firewood and posts","1983-06-01 00:00:00",NA,"C,U",1983
+151,"stp,sl","Clearcut site prepped for planting next spring","1983-07-18 00:00:00","1983-08-10 00:00:00","C,U",1983
+151,"w,hb,24d","Herbicide spray to brush species on entire 16 acre clear-cut","1984-07-11 00:00:00","1984-07-16 00:00:00","C,U",1984
+151,"m","Perimeter length and area of clearcut measured","1985-06-10 00:00:00",NA,"C,U",1985
+151,"w,hb,gar","Herbicide spray in Nelder plots and White Fir plot","1985-08-01 00:00:00","1985-08-05 00:00:00","C,U",1985
+151,"w,hg","Hand grubbing in Nelder plots and White Fir plantation","1987-06-22 00:00:00","1987-06-26 00:00:00","C,U",1987
+151,"w,hg","Hand grubbing--14 acres covered","1988-07-08 00:00:00",NA,"C,U",1988
+151,"i,est,reg","Expansion of a 6-chain grid to a 3-chain grid","1990-07-30 00:00:00","1990-08-02 00:00:00","C,U,R",1990
+160,"i,est","Inventory establishment","1975-08-01 00:00:00",NA,"I",1975
+160,"i","Inventory","1980-08-01 00:00:00",NA,"I",1980
+160,"h,sts,f","Selection harvesting--54 acres","1983-05-09 00:00:00","1984-09-30 00:00:00","C,U",1983
+160,"i,prt","Snag inventory","1983-06-29 00:00:00","1983-07-07 00:00:00","C,U,I",1983
+160,"i","Inventory","1983-09-01 00:00:00",NA,"I",1983
+160,"cu,pct","Precommercial thin to 200 trees/acre","1987-08-14 00:00:00",NA,"C,U",1987
+160,"i,prt,rem","Remeasurement of snag inventory","1989-06-29 00:00:00","1989-06-14 00:00:00","C,I",1989
+160,"i,rem","Remeasurement inventory","1994-05-01 00:00:00",NA,"I",1994
+170,"i","Inventory","1977-06-09 00:00:00","1977-09-09 00:00:00","U,I",1977
+170,"stp,bb","Silvicultural Fuel Reduction Burn","1982-09-01 00:00:00",NA,"C",1982
+170,"h,ct","Commercial thin of 36 acres","1983-06-15 00:00:00","1985-02-01 00:00:00","C",1983
+170,"m",".5 acre area marked off from harvest","1983-07-22 00:00:00",NA,"C,U",1983
+170,"cu,pct","Precommercial thinning","1984-07-31 00:00:00",NA,"C",1984
+170,"i,rem","Remeasurement inventory","1985-07-19 00:00:00","1985-07-25 00:00:00","C,U,I",1985
+170,"cu,pct","Precommercial thinning","1986-07-11 00:00:00",NA,"C",1986
+180,"i,est","Inventory establishment","1974-07-16 00:00:00",NA,"I",1974
+180,"m","Located and marked boundary between Blodgett and Mich-Cal","1982-08-19 00:00:00","1982-09-03 00:00:00","U",1982
+180,"i","Inventory","1983-09-01 00:00:00",NA,"U,I",1983
+180,"i,est","Inventory establishment and expansion","1984-07-20 00:00:00","1984-07-26 00:00:00","C,U,I",1984
+180,"h,sts","Single tree selection harvest over 40 acres","1986-05-15 00:00:00","1988-11-01 00:00:00","C",1986
+180,"stp,sl","Slashing in group cuts","1987-07-01 00:00:00",NA,"C,U",1987
+180,"i,prt","Timber Inventory","1987-07-01 00:00:00",NA,"C,U,I",1987
+180,"w,hb,ru","Herbicide spray to control brush","1989-07-18 00:00:00","1989-07-19 00:00:00","C,U",1989
+190,"i,est","Inventory establishment","1975-08-01 00:00:00",NA,"I",1975
+190,"h,gs","Group selection harvest--46 acres","1980-04-01 00:00:00","1981-10-15 00:00:00","C",1980
+190,"i,reg","Regeneration survey","1983-09-01 00:00:00",NA,"U,I",1983
+190,"i,est","Inventory expansion and establishment","1984-07-06 00:00:00","1984-07-18 00:00:00","C,U,I",1984
+190,"w,hb,ru","Herbicide spray over 4 acres to Bear Clover","1987-06-10 00:00:00",NA,"C,U",1987
+190,"i,prt,rem","Timber inventory","1987-08-10 00:00:00","1987-08-14 00:00:00","C,U,I",1987
+190,"h,gs","Group selection harvesting","1989-01-01 00:00:00","1990-01-11 00:00:00","C",1989
+190,"cu,sl","Cleaned group cuts after harvesting","1989-06-13 00:00:00","1989-06-19 00:00:00","C,U",1989
+190,"i,rem","Remeasurement inventory","1989-08-01 00:00:00",NA,"C,U,I",1989
+190,"cu,p","Hand planted bare root seedlings","1990-04-23 00:00:00","1990-04-25 00:00:00","C,U",1990
+190,"i","Standard stocking survey--53.7 acres","1990-08-01 00:00:00",NA,"C,U",1990
+190,"w,hb,ru","Herbicide spray (whole area)","1992-06-22 00:00:00","1992-06-24 00:00:00","C,U",1992
+190,"cu","Placed aluminum ladders in superior Sugar Pines","1992-08-06 00:00:00","1992-08-10 00:00:00","C,U",1992
+200,"i","Inventory","1978-08-01 00:00:00",NA,"U,I",1978
+200,"h,cc","Clearcut harvest","1980-04-01 00:00:00","1980-09-22 00:00:00","C",1980
+200,"cu,jp,pi","Brushing and jill-poking","1980-09-09 00:00:00","1980-09-13 00:00:00","C,U",1980
+200,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"C,U,R",1981
+200,"w,bc","Brush removal in lower part of a clearcut","1982-07-21 00:00:00","1982-07-22 00:00:00","C",1982
+200,"i,reg","Regeneration survey","1982-08-01 00:00:00",NA,"C",1982
+200,"w,hb,24d","Application of 24D on Tanoak sprouts","1982-08-10 00:00:00","1982-08-25 00:00:00","C,U",1982
+200,"w,hb,24d","Sprayed all Scotch Broom plants found","1983-07-08 00:00:00","1983-07-11 00:00:00","C,U",1983
+200,"w,hb,24d","Chemical spray treatment of all Tan Oak in a clearcut","1983-07-18 00:00:00",NA,"C,U",1983
+200,"w","Weeded out non-trees","1983-07-26 00:00:00","1983-08-01 00:00:00","C",1983
+200,"i,reg,rem","Regeneration survey","1983-08-17 00:00:00","1983-08-18 00:00:00","C,U,R",1983
+200,"i,est,rem","Plot expansion and inventory","1983-08-19 00:00:00","1983-08-23 00:00:00","C",1983
+200,"w,hb","Herbicide spray of all brush within a 2 acre strip","1983-08-22 00:00:00",NA,"C,U",1983
+200,"i,reg","Regeneration survey","1984-09-11 00:00:00","1984-09-13 00:00:00","C,U,R",1984
+200,"i,reg","Regeneration survey","1985-10-03 00:00:00","1985-10-10 00:00:00","C,U,R",1985
+200,"m","Skidded tan and black oak to landing for sale to a woodcutter","1986-08-21 00:00:00","1986-08-22 00:00:00","C",1986
+200,"i,reg","Regeneration survey","1986-12-01 00:00:00","1986-12-03 00:00:00","C,U,R",1986
+200,"w,bc","Brush cutting","1987-08-25 00:00:00",NA,"C,U",1987
+200,"cu,pct","Pre-commercial thinning to 200 trees per acre","1989-06-21 00:00:00","1989-06-23 00:00:00","C,U",1989
+200,"i,reg","Regeneration survey","1990-08-01 00:00:00",NA,"C,R",1990
+200,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-08-12 00:00:00",NA,"C,U",1990
+200,"cu,pct","Thinning trees to 10 per 1/20th acre","1990-09-10 00:00:00","1990-09-12 00:00:00","C,U",1990
+210,"i","Inventory","1980-06-01 00:00:00",NA,"U,I",1980
+210,"i,rem,est","Inventory remeasurement and establishment","1985-10-16 00:00:00","1985-10-18 00:00:00","C,U,I",1985
+211,"i","Inventory","1980-06-01 00:00:00",NA,"U,I",1980
+211,"i,rem,est","Inventory remeasurement and establishment","1985-10-01 00:00:00",NA,"C,I",1985
+220,"i","Inventory","1976-07-01 00:00:00","1976-08-01 00:00:00","U,I",1976
+220,"i","Inventory","1982-08-02 00:00:00","1982-08-05 00:00:00","U,I",1982
+220,"i","Rodent population inventory","1983-08-07 00:00:00",NA,NA,1983
+221,"i,rem","Remeasurement inventory","1984-05-24 00:00:00","1984-05-30 00:00:00","C,U,I",1984
+221,"i,rem","Correction of old, inconsistent data","1987-07-15 00:00:00",NA,"C,U,I",1987
+230,"i,est","Inventory establishment","1974-08-09 00:00:00",NA,",I",1974
+230,"h,sts","Single tree selection harvest--45 acres harvested","1978-04-01 00:00:00","1979-11-01 00:00:00","C",1978
+230,"h,f","Firewood harvesting","1982-07-23 00:00:00","1982-08-18 00:00:00","C,U",1982
+230,"i","Rodent population inventory","1983-08-06 00:00:00","1983-08-13 00:00:00","C,U",1983
+230,"i","Inventory","1983-08-19 00:00:00","1983-08-23 00:00:00","U",1983
+230,"i,est","Inventory establishment and expansion","1984-07-02 00:00:00","1984-07-05 00:00:00","C,U,I",1984
+230,"i,rem","Remeasurement inventory","1988-07-27 00:00:00","1988-08-01 00:00:00","C,U,I",1988
+230,"i,rem","Preharvest inventory","1993-07-06 00:00:00","1993-07-13 00:00:00","C,U,I",1993
+240,"i,est","Inventory establishment","1974-08-01 00:00:00",NA,"I",1974
+240,"cu,pct","Precommercial thinning","1975-08-01 00:00:00","1975-09-01 00:00:00","C",1975
+240,"i,est","Inventory establishment","1976-07-06 00:00:00",NA,"U,I",1976
+240,"i","Inventory","1980-07-01 00:00:00",NA,"U,I",1980
+240,"i","Inventory updated","1985-01-01 00:00:00",NA,"I",1985
+240,"cu,p","Planting in group selection cuts","1985-04-22 00:00:00","1985-05-06 00:00:00","C,U",1985
+240,"i,rem","Remeasurement inventory","1985-10-18 00:00:00","1985-10-31 00:00:00","U,I,C",1985
+240,"m","Marking of Black Oak for removal","1986-08-01 00:00:00",NA,"C",1986
+240,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+250,"i","Inventory","1980-10-01 00:00:00","1980-10-15 00:00:00","I",1980
+250,"m","Wildlife Inventory Equipment Clean-Up","1983-08-25 00:00:00",NA,"C,U",1983
+250,"m","Re-graveled Entrance Road","1984-10-24 00:00:00","1984-10-31 00:00:00","C,U",1984
+250,"w,hb","Spraying of sequoia seedlings to prevent more botrytus infection","1985-06-07 00:00:00",NA,"C",1985
+250,"m","Prepared lab trailer for occupancy","1987-06-03 00:00:00","1987-06-08 00:00:00","C,U",1987
+250,"i,est","Established one inventory plot in the headquarters location","1987-08-19 00:00:00",NA,"C,U,I",1987
+260,"i,est","Inventory establishment","1974-09-03 00:00:00",NA,"I",1974
+260,"h,sts","Selection harvesting of 33 acres","1976-03-26 00:00:00","1977-09-01 00:00:00","C",1976
+260,"stp","Clean-up after logging operations","1976-06-29 00:00:00","1976-08-13 00:00:00","C",1976
+260,"i","Inventory","1983-09-01 00:00:00",NA,"U,I",1983
+260,"i,est","Inventory establishment and plot expansion","1984-06-05 00:00:00","1984-06-12 00:00:00","C,U,I",1984
+260,"i,rem","Remeasurement inventory","1994-06-17 00:00:00","1994-06-23 00:00:00","C",1994
+270,"i,est","Inventory establishment","1974-09-01 00:00:00",NA,"I",1974
+270,"cu,pct","Timber Stand Improvement","1975-09-01 00:00:00",NA,"C",1975
+270,"i,est","Inventory establishment","1979-09-10 00:00:00",NA,NA,1979
+270,"i","Inventory","1982-08-01 00:00:00",NA,"U,I",1982
+270,"i,rem","Remeasurement inventory","1984-08-14 00:00:00",NA,"C,U",1984
+270,"i","Inventory updated","1985-01-01 00:00:00",NA,"U,I",1985
+270,"cu,p","Planting","1985-04-22 00:00:00","1985-05-06 00:00:00","C,U",1985
+270,"stp,sl","Slashing a group cut","1987-06-29 00:00:00","1987-06-30 00:00:00","C,U",1987
+270,"i,rem","Remeasurement inventory","1987-07-22 00:00:00","1987-07-31 00:00:00","C,U,I",1987
+270,"w,hb,ru","Herbicide spraying--7 acres, 3 group cuts","1989-07-18 00:00:00","1989-07-19 00:00:00","C,U",1989
+270,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+280,"i","Inventory","1977-09-07 00:00:00","1977-09-13 00:00:00","U,I",1977
+280,"h,sw","Variable density shelterwood harvest","1979-04-01 00:00:00","1980-08-01 00:00:00","C",1979
+280,"i,reg","Regeneration Survey","1979-08-01 00:00:00",NA,"R",1979
+280,"stp,pi","Brush clearing, slash piling","1980-06-01 00:00:00",NA,"C",1980
+280,"i,reg","Regeneration Survey","1981-08-01 00:00:00",NA,"R",1981
+280,"w","Removal of mullen and thistle from shelterwood","1982-07-20 00:00:00","1982-07-21 00:00:00","C,U",1982
+280,"i,reg","Regeneration survey","1982-08-01 00:00:00",NA,"R",1982
+280,"w,hb,24d","Herbicide spray on Tan Oak only--44 acres covered","1982-08-10 00:00:00","1982-08-25 00:00:00","C",1982
+280,"m","Shelterwood study","1982-11-01 00:00:00",NA,NA,1982
+280,"fn,el,w,cg","Monitor effects of cattle grazing","1983-06-01 00:00:00",NA,"C",1983
+280,"w,hb,24d","Chemical spray of Tan Oak--44 acres covered","1983-07-15 00:00:00",NA,"C,U",1983
+280,"i,reg","Regeneration Survey","1983-08-01 00:00:00",NA,"R",1983
+280,"i,est,rem","Plot expansion and inventory remeasurement","1984-06-05 00:00:00","1984-06-12 00:00:00","C",1984
+280,"w,hb,ru","Herbicide spray on deerbrush--about 1/4th of compartment sprayed","1984-09-19 00:00:00","1984-10-01 00:00:00","C,U",1984
+280,"i,reg","Regeneration survey","1984-10-17 00:00:00","1984-11-14 00:00:00","C,U,R",1984
+280,"i,est","33 10 BAF plots established, inventory taken","1985-07-22 00:00:00","1985-07-25 00:00:00","C,U,R",1985
+280,"i,reg","Regeneration Survey","1985-08-01 00:00:00",NA,NA,1985
+280,"w,hb,ru","Herbicide spray over the eastern portion of the compartment","1985-09-17 00:00:00","1985-09-25 00:00:00","C,U",1985
+280,"w,hb,ru","Herbicide app. to understory brushcover via tractor mounted sprayer","1985-09-25 00:00:00","1985-10-09 00:00:00","C",1985
+280,"h,sw,rm","Shelterwood removal harvesting","1986-04-01 00:00:00","1988-02-26 00:00:00","C",1986
+280,"i,reg,est","Temporary 2/100th acre plots established","1986-08-05 00:00:00",NA,"C",1986
+280,"cu,pct","Removal of damaged, sick and dying trees","1986-09-03 00:00:00","1986-09-04 00:00:00","C,U",1986
+280,"w,hb,ru","Brush sprayed on western half of compartment","1986-10-13 00:00:00",NA,"C,U",1986
+280,"w,hb,gar","Chemical spray on Tan Oak--6 acres covered on eastern side","1987-08-01 00:00:00",NA,"C,U",1987
+280,"w,bc","Brush cutting","1988-07-08 00:00:00",NA,"C,U",1988
+280,"w,hb,ru","Herbicide spray on all shrubs but Tan Oak--34 acres covered","1989-07-19 00:00:00","1989-08-18 00:00:00","C,U",1989
+280,"i,est","Expansion of 3-chain grid to a 6-chain grid","1990-06-28 00:00:00","1990-07-03 00:00:00","C,U",1990
+280,"i,reg","Regeneration Survey","1990-07-03 00:00:00","1990-07-13 00:00:00","U,R",1990
+280,"m","Monitor grazing activity","1991-06-26 00:00:00","1991-08-10 00:00:00","C",1991
+280,"i,reg","Regeneration Survey","1993-08-01 00:00:00",NA,NA,1993
+280,"i,reg","Regeneration Survey","1994-06-27 00:00:00","1994-06-29 00:00:00","R",1994
+290,"i,est","Inventory esatablishment","1974-09-01 00:00:00",NA,"I",1974
+290,"i,est","Inventory establishment","1979-09-18 00:00:00",NA,NA,1979
+290,"i","Inventory","1980-08-01 00:00:00",NA,"U,I",1980
+290,"i","Inventory","1981-07-13 00:00:00","1981-07-15 00:00:00","U,I",1981
+290,"m","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","C,U",1985
+290,"cu","Placed aluminum ladders in superior Sugar Pines","1992-08-06 00:00:00","1992-08-10 00:00:00","C,U",1992
+290,"cu,t","Pre-commercial thin of Fields Cobb study area","1992-08-17 00:00:00","1992-08-17 00:00:00",NA,1992
+291,"i","Inventory","1981-07-01 00:00:00",NA,NA,1981
+295,"i","Inventory","1980-08-01 00:00:00",NA,"I",1980
+295,"m","Compartment boundaries changed","1985-07-26 00:00:00","1985-07-27 00:00:00","C,U",1985
+295,"i,rem,est","Plot establishment and remeasurement","1985-10-28 00:00:00","1985-10-30 00:00:00","C,U,I",1985
+295,"h,ct","Commercial thinning, 22 acres","1990-03-23 00:00:00","1991-05-31 00:00:00","C",1990
+295,"i,rem","Remeasurement inventory","1992-07-27 00:00:00","1992-08-04 00:00:00","C,U,I",1992
+300,"i","Inventory","1976-08-01 00:00:00",NA,"U,I",1976
+300,"i","Inventory","1977-09-01 00:00:00",NA,"U",1977
+300,"i","Inventory","1981-08-01 00:00:00",NA,"I",1981
+300,"i,rem","Postharvest inventory","1984-10-17 00:00:00","1984-10-18 00:00:00","C,U",1984
+300,"i","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","C,U",1985
+300,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+301,"i","Inventory","1976-08-01 00:00:00",NA,"I",1976
+301,"i","Inventory","1981-08-01 00:00:00",NA,"I",1981
+301,"stp,bb","Broadcast burn","1984-05-16 00:00:00",NA,"C",1984
+301,"i,rem","Postharvest inventory","1984-10-17 00:00:00","1984-10-18 00:00:00","C,U",1984
+301,"i","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","C,U",1985
+301,"w","CEIN shrubs clipped to simulate cattle grazing","1986-01-01 00:00:00","1988-01-01 00:00:00","C,U",1986
+301,"fn,ex","Exclosures set up to prohibit cattle browsing yet allow deer browsing","1986-01-01 00:00:00",NA,"C,U",1986
+301,"h,sd,rm","Seed tree removal cut","1986-06-25 00:00:00","1988-02-26 00:00:00","C",1986
+301,"w,hb,gar","Herbicide spray with Garlon & 24d on tanoak, chinq., thistle, & mullin","1986-08-12 00:00:00",NA,"C",1986
+301,"fn,ex","Built exclosures around research plots to keep cows out","1988-06-05 00:00:00",NA,"C,U",1988
+301,"i,est","Expansion of 6-chain plots to 3-chain plots","1990-08-03 00:00:00",NA,"C,U,I",1990
+310,"i","Inventory","1974-01-01 00:00:00",NA,"I",1974
+310,"i","Inventory","1978-08-01 00:00:00",NA,"U,I",1978
+310,"i,est","Inventory establishment","1982-08-20 00:00:00","1982-09-03 00:00:00","C,U,I",1982
+310,"i","Inventory","1983-01-01 00:00:00",NA,NA,1983
+310,"m","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","C,U",1985
+310,"i,est","Inventory establishment","1994-09-01 00:00:00",NA,NA,1994
+320,"i","Inventory","1978-08-11 00:00:00","1978-08-14 00:00:00","U,I",1978
+320,"cu,jp","Jill-poking entire compartment","1980-07-28 00:00:00","1980-08-22 00:00:00","C",1980
+320,"i,rem","Remeasurement inventory","1983-08-17 00:00:00","1983-08-18 00:00:00","C,U,I",1983
+320,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+321,"h,cc,ct","Clear cut and commercial thinning harvest--25 acres","1980-06-01 00:00:00","1980-09-22 00:00:00","C",1980
+321,"stp,bi","Brush piling for burning, slash clearing","1980-08-12 00:00:00","1980-08-25 00:00:00","C",1980
+321,"cu,p","Planting","1981-04-04 00:00:00","1981-04-12 00:00:00",NA,1981
+321,"i","Planting survey","1981-04-12 00:00:00",NA,NA,1981
+321,"stp,sl","Cutting of sprouting Tanoak, Deerbrush, and other brush species.","1981-06-22 00:00:00","1981-06-26 00:00:00","C",1981
+321,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"C,I",1981
+321,"w,hg","Weeding","1982-07-13 00:00:00","1982-07-16 00:00:00","C",1982
+321,"w,hb,24d","Application of 24d on Tan Oak sprouts only","1982-08-10 00:00:00","1982-08-25 00:00:00","C",1982
+321,"w,rh","Removal and leaving of specific brush species in specific places","1983-06-21 00:00:00","1983-06-22 00:00:00","C",1983
+321,"w,hg","Removal of all brush species by hand","1983-06-23 00:00:00","1983-06-27 00:00:00","C,U",1983
+321,"w,hb,24d","Chemical spray of all Tan Oak","1983-06-29 00:00:00","1983-06-30 00:00:00","C,U",1983
+321,"w,hb,24d","Herbicide spray of all Scotch Broom plants","1983-07-08 00:00:00","1983-07-11 00:00:00","C",1983
+321,"w,hb,ru","Chemical spray treatment of all brush and forb species in spray plots","1983-07-20 00:00:00","1983-07-21 00:00:00","C,U",1983
+321,"i,rem","Remeasurement inventory","1983-08-17 00:00:00","1983-08-18 00:00:00","C",1983
+321,"i,reg","Regeneration survey","1983-08-18 00:00:00",NA,"C,U",1983
+321,"i,reg","Regeneration survey","1984-08-31 00:00:00","1984-09-04 00:00:00","C,U,R",1984
+321,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+321,"m","Surveying","1985-07-10 00:00:00","1985-07-15 00:00:00","C",1985
+321,"i,reg","Regeneration Survey","1985-09-30 00:00:00","1985-10-02 00:00:00","C,U,R",1985
+321,"i","Inventory","1986-07-22 00:00:00",NA,NA,1986
+321,"i,reg","Regeneration inventory","1986-07-24 00:00:00",NA,"C,U,R",1986
+321,"cu,pct","Precommercial thinning","1986-08-01 00:00:00",NA,"C,U",1986
+321,"i,est","Plot expansion and establishment","1986-11-19 00:00:00","1986-11-26 00:00:00","C,U,I",1986
+321,"fn,ex","Fence improvement","1988-06-08 00:00:00",NA,"C,U",1988
+321,"i,rem","Remeasurement inventory","1989-08-25 00:00:00",NA,"C,U,I",1989
+322,"cu","Pruning Giant Sequoias","1984-10-15 00:00:00",NA,"C,U",1984
+322,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+322,"m","Surveying","1985-07-10 00:00:00","1985-07-15 00:00:00","C",1985
+322,"i,reg","Regeneration survey of all conifers","1985-10-23 00:00:00","1985-10-25 00:00:00","C",1985
+322,"i,reg","Regeneration survey of giant sequoias only","1985-10-23 00:00:00","1985-10-25 00:00:00","C",1985
+322,"w,hg","Hand grubbing, pruning","1987-05-28 00:00:00",NA,"C,U",1987
+322,"w,hg","Hand grubbing, pruning","1988-06-15 00:00:00","1988-06-17 00:00:00","C,U",1988
+322,"w,hg","Hand grubbing, pruning","1989-06-06 00:00:00",NA,"C,U",1989
+322,"cu,pct","Precommercial thin of Giant Sequoia study compartment","1992-08-03 00:00:00","1992-08-07 00:00:00","U",1992
+330,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+330,"h,sts","Selection harvest--22 acres","1975-05-27 00:00:00","1975-10-01 00:00:00","C",1975
+330,"i","Inventory","1980-07-01 00:00:00",NA,"I",1980
+330,"m","Mapping areas for regeneration study","1984-09-03 00:00:00","1984-10-16 00:00:00","C,U",1984
+330,"i,rem","Post harvest inventory","1984-10-17 00:00:00","1984-10-18 00:00:00","C,U",1984
+330,"i,prt","Fuel inventory","1984-11-15 00:00:00","1984-11-20 00:00:00","C,U",1984
+330,"i,rem,est","Plot establishment and remeasurement","1985-10-14 00:00:00","1985-10-16 00:00:00","C,U,I",1985
+330,"m","Tree marking, surveying","1991-06-17 00:00:00","1991-06-28 00:00:00","C,U",1991
+330,"m","Calculated compartment area","1991-07-26 00:00:00",NA,"C,U",1991
+330,"cu,p","Hand plant bareroot seedlings","1992-04-06 00:00:00","1992-04-13 00:00:00","C",1992
+330,"i,rem","Remeasurement inventory","1992-08-05 00:00:00","1992-08-07 00:00:00","C,U,I",1992
+330,"cu,ip","Hand interplanting of bare root seedlings","1993-04-20 00:00:00","1993-04-22 00:00:00","C,U",1993
+330,"cu,p","Hand planting of bare root seedlings","1993-04-28 00:00:00","1993-05-10 00:00:00","C",1993
+340,"cu,pct","Timber Stand Improvement","1974-06-01 00:00:00",NA,"C",1974
+340,"i,est","Inventory establishment","1974-08-20 00:00:00",NA,"I",1974
+340,"w,hb,tor","Black oak poisoning with Tordon 101","1975-08-25 00:00:00","1975-08-29 00:00:00","C",1975
+340,"i,est","Plot expansion and inventory","1983-07-29 00:00:00","1983-08-05 00:00:00","C,U,I",1983
+340,"h,sts","Selection harves--40 acres","1985-03-13 00:00:00","1987-12-01 00:00:00","C",1985
+340,"m","Laying out of a cable yarding road","1985-07-01 00:00:00","1985-07-25 00:00:00",NA,1985
+340,"m","Timber marking","1986-06-25 00:00:00","1986-06-25 00:00:00","C,U",1986
+350,"i","Inventory","1978-08-01 00:00:00",NA,"U,I",1978
+350,"i","Inventory","1985-06-27 00:00:00","1985-07-01 00:00:00","U,I",1985
+350,"i,est","Establishment of research plots","1986-10-28 00:00:00","1986-11-18 00:00:00","C,U,I",1986
+350,"i,reg","Regeneration survey","1986-11-01 00:00:00",NA,"I",1986
+350,"cu,p","Hand planting of bareroot seedlings","1992-04-06 00:00:00","1992-04-13 00:00:00","C,U",1992
+350,"i,rem","Remeasurement inventory","1992-08-05 00:00:00","1992-08-07 00:00:00","C,U,I",1992
+350,"cu,p","Hand planting of bareroot seedlings","1993-04-28 00:00:00","1993-05-10 00:00:00","C",1993
+360,"m","Surveying of boundary between Blodgett and Mich-Cal","1982-08-19 00:00:00","1982-09-03 00:00:00","C",1982
+360,"h,cc","Clearcut harvest--20 acres","1984-08-01 00:00:00","1985-10-30 00:00:00","C",1984
+360,"h,f","Public cutting of fuelwood","1984-09-07 00:00:00","1984-10-29 00:00:00","C,U",1984
+360,"m","Measurement of perimeter and area of clearcut south of Mutton Rd","1985-06-10 00:00:00",NA,"C,U",1985
+360,"i,reg","Regeneration inventory","1987-07-01 00:00:00",NA,"R",1987
+360,"i,est","Establishment of 6 chain grid and expansion to a 3 chain grid","1990-08-09 00:00:00",NA,"C,U,R",1990
+370,"i","Inventory","1978-07-01 00:00:00","1978-08-01 00:00:00","U,I",1978
+370,"i","Inventory","1983-06-01 00:00:00",NA,"U,I",1983
+370,"h,cc","Clearcut of 25 acres","1983-07-15 00:00:00","1985-09-01 00:00:00","C",1983
+370,"stp,sl","Removal of all standing trees after clearcut","1984-06-04 00:00:00","1984-06-29 00:00:00","C,U",1984
+370,"stp,pi,tct","Slash piling","1984-09-12 00:00:00","1984-10-02 00:00:00","C",1984
+370,"stp,brn","Pile burning","1984-10-18 00:00:00","1984-10-19 00:00:00","C,U",1984
+370,"cu,p","Planting in clearcut","1985-04-15 00:00:00","1985-05-06 00:00:00","C,U",1985
+370,"i,reg","Establishment of permanent regeneration plots","1985-05-21 00:00:00","1985-06-06 00:00:00","C,U",1985
+370,"m","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","U",1985
+370,"cu,p","North half of compartment planted","1986-05-09 00:00:00",NA,"C,U",1986
+370,"i,reg","Regeneration survey","1986-10-07 00:00:00","1986-10-21 00:00:00","C,U",1986
+370,"i,reg","Regeneration survey","1987-08-25 00:00:00","1987-09-16 00:00:00","C,U",1987
+370,"i,reg","Regeneration study","1989-12-01 00:00:00",NA,"C",1989
+370,"m","Measurement of plot area","1990-08-01 00:00:00",NA,"C,U",1990
+370,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+370,"w,hb,gar","Herbicide spray of Garlon on north half of comp.l--approx. 7 acres","1992-07-21 00:00:00","1992-07-23 00:00:00","C,U",1992
+371,"w,hb,gar","Hand grubbing and herbicide spray","1986-07-29 00:00:00","1986-08-13 00:00:00","C",1986
+371,"w,hb,asu","Herbicide spray of bracken fern using Asulam--covering 2 acres","1987-07-21 00:00:00",NA,"C,U",1987
+371,"w,hb,gar","Herbicide spray of entire compartment (22.3 acres) with Garlon","1987-08-21 00:00:00",NA,"C,U",1987
+371,"i,reg","Regeneration survey","1990-07-24 00:00:00","1990-07-26 00:00:00","R",1990
+371,"i,est","Plot expansion for future regeneration surveys","1990-07-27 00:00:00",NA,"C,U",1990
+372,"w,hg","Vegetation control, hand grubbing","1987-05-28 00:00:00","1987-06-01 00:00:00","C,U",1987
+372,"i,reg","Regeneration survey","1987-08-25 00:00:00","1987-09-16 00:00:00","C,U",1987
+372,"w,hg,rh","Vegetation control for Sequoia/Ceanothus and Manzanita Research","1988-06-09 00:00:00","1988-06-14 00:00:00","C,U",1988
+372,"w,fn","Vegetation control for Giant Sequoia study","1989-04-07 00:00:00",NA,"C,U",1989
+372,"cu,pct","Pre-commercial thin of a study compartment of Giant Sequoia","1992-08-04 00:00:00","1992-08-05 00:00:00","C,U",1992
+380,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+380,"h,sts","Selection harvesting--54 acres","1975-08-04 00:00:00","1975-10-01 00:00:00","C",1975
+380,"i,est","Inventory establishment","1976-07-01 00:00:00",NA,"U,I",1976
+380,"i","Inventory","1981-08-01 00:00:00",NA,"U,I",1981
+380,"m","Tree marking for harvest cut","1985-03-21 00:00:00","1985-05-08 00:00:00","C",1985
+380,"h,sts","Selection harvesting--60 acres","1985-05-20 00:00:00","1987-09-01 00:00:00","C",1985
+380,"i,prt","Snag inventory","1985-06-26 00:00:00","1985-07-01 00:00:00","C,U,I",1985
+380,"i,prt","Inventory","1987-07-01 00:00:00",NA,"C,U,I",1987
+380,"i","Snag inventory","1989-06-21 00:00:00","1989-06-30 00:00:00","C,U,I",1989
+380,"w,hb,ru","Herbicide spray in four group cuts of 2 acres each","1989-07-31 00:00:00","1989-08-18 00:00:00","C,U",1989
+380,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+380,"w,hb,gar","Herbicide application of Garlon in eastern, 2 acre, group cut","1991-06-24 00:00:00","1991-06-25 00:00:00","C,U",1991
+380,"i,reg","Regeneration inventory","1992-08-06 00:00:00","1992-10-02 00:00:00","U",1992
+390,"i","Inventory","1980-07-01 00:00:00",NA,"U,I",1980
+390,"m","Compartment boundaries changed","1985-06-26 00:00:00","1985-06-27 00:00:00","C",1985
+390,"i,est,rem","Plot establishment and remeasurement","1985-11-04 00:00:00",NA,"C,U,I",1985
+400,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+400,"w,hb,tor","Black oak poisoning (whole compartment), fertilization plot set up","1975-09-01 00:00:00",NA,"C",1975
+400,"cu","Crushing of logging slash","1975-09-01 00:00:00",NA,"C",1975
+400,"h,ct","Removal of standing dead oaks","1977-09-01 00:00:00",NA,"C",1977
+400,"i","Inventory","1981-07-01 00:00:00",NA,"U,I",1981
+400,"w,hb,ru","Herbicide spray large concentrations of bear-clover--4.2 ac covered","1988-06-28 00:00:00",NA,"U",1988
+400,"h,sts","Selection harvesting--42 acres","1989-04-01 00:00:00","1990-01-05 00:00:00","C",1989
+400,"stp,sl","Cutting of trees left by logging operations","1989-06-06 00:00:00",NA,"C,U",1989
+400,"i,rem","Remeasurement inventory","1989-08-02 00:00:00","1989-08-09 00:00:00","C,U,I",1989
+400,"cu,p","Hand planting of bare root seedlings","1990-04-19 00:00:00","1990-04-20 00:00:00","C,U",1990
+400,"w,hb,ru","Application of 1% Round-up herbicide to all areas (7.5 acres)","1992-07-27 00:00:00","1992-07-28 00:00:00","C,U",1992
+410,"i,est","Inventory establishment","1974-06-01 00:00:00",NA,"I",1974
+410,"i","Inventory","1980-07-01 00:00:00",NA,"I",1980
+410,"i,rem,est","Plot establishment and remeasurement","1985-06-20 00:00:00","1985-06-28 00:00:00","C,U,I",1985
+410,"h,gs","Group selection harvest, 49 acres","1986-05-30 00:00:00","1988-02-26 00:00:00","C",1986
+410,"cu,h,gs","Creation of a series of 4 group cuts","1986-07-01 00:00:00",NA,"C,U,I",1986
+410,"i","Inventory","1986-08-01 00:00:00",NA,"I",1986
+410,"w,hb,ru","Herbicide spray of roundup on Bear Clover--6 acres covered","1987-06-10 00:00:00","1987-06-11 00:00:00","C,U",1987
+410,"i,prt","Timber inventory","1987-07-01 00:00:00",NA,"C,U,I",1987
+410,"w,hb,ru","Application of 1% Round-Up Herbicide to all areas (4 acres)","1992-07-29 00:00:00","1992-07-30 00:00:00","C,U",1992
+420,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+420,"i","Inventory","1980-06-01 00:00:00","1980-07-01 00:00:00","U,I",1980
+420,"m","Information gathering for management decisions","1980-09-01 00:00:00",NA,"C",1980
+420,"h,gs","Group selection harvest--43 acres","1981-01-01 00:00:00","1983-10-15 00:00:00","C",1981
+420,"i","Aggregation survey","1981-06-01 00:00:00",NA,"C",1981
+420,"m","Surveying","1982-08-19 00:00:00","1982-09-03 00:00:00","C,U",1982
+420,"w,hb,ru","Herbicide spray on all non-tree vegetation--three 1-acre cuts","1984-07-31 00:00:00","1984-08-02 00:00:00","C,U",1984
+420,"cu,p","Planting in prepared group cuts","1985-04-22 00:00:00","1985-05-06 00:00:00","C",1985
+420,"m","Tree marking to prepare compartment for group selection harvest","1991-07-19 00:00:00","1991-08-20 00:00:00","C",1991
+420,"i,rem","Remeasurement inventory","1992-08-18 00:00:00","1992-08-27 00:00:00","C,U",1992
+420,"cu","Deployment of 208 TreePee seedling covers on white fir seedlings","1994-05-12 00:00:00","1994-05-17 00:00:00","C",1994
+430,"i,est","Inventory establishment","1974-08-01 00:00:00",NA,"I",1974
+430,"h,gs","Selection harvesting--33 acres","1977-09-05 00:00:00","1977-11-01 00:00:00","C",1977
+430,"i","Inventory","1980-08-01 00:00:00",NA,"U,I",1980
+430,"i","Inventory","1985-10-30 00:00:00","1985-10-31 00:00:00","U,I",1985
+430,"h,sd,rm","Seed tree harvest, removal step--30 acres","1986-07-07 00:00:00",NA,"C",1986
+430,"i,prt","Basic inventory","1987-09-17 00:00:00","1987-09-22 00:00:00","C,U,I",1987
+430,"w,hg,pct","Vegetation control--hand grubbing, prunning, thinning","1989-06-14 00:00:00","1989-07-07 00:00:00","C",1989
+430,"w,hg","Vegetation control via hand grubbing","1990-06-12 00:00:00","1990-06-28 00:00:00","C,U",1990
+430,"i,est","Expansion of 6 chain grid to a 3 chain grid","1990-07-27 00:00:00",NA,"C,U",1990
+430,"i,reg","Regeneration survey","1990-09-01 00:00:00",NA,"R",1990
+431,"m","Tree marking","1977-09-15 00:00:00",NA,"C",1977
+431,"i,prt","Basic inventory","1987-09-17 00:00:00","1987-09-22 00:00:00","C,U,I",1987
+431,"w,hg","Hand grubbing in 1.75 ha.","1989-04-05 00:00:00","1989-04-07 00:00:00","C,U",1989
+431,"cu,p","GS seedlings planted","1989-08-25 00:00:00",NA,"C,U",1989
+431,"w,hg","Removal by McCleod or hand grubbing all unwanted vegetation","1990-07-01 00:00:00",NA,"C,U",1990
+431,"w,hg","Removal by hand grubbing all shrub species in Seqoia plantation--9 ac.","1991-06-10 00:00:00","1991-06-13 00:00:00","C,U",1991
+431,"m","Replacement of tree identification flags","1991-06-13 00:00:00","1991-07-09 00:00:00","C,U",1991
+431,"cu,p","Transplant extra Sequoia stack to replace failed seedlings","1991-12-04 00:00:00","1991-12-08 00:00:00","C",1991
+431,"w,hg","Hand grubbing in 10 acre Seqoia plantation","1992-05-27 00:00:00","1992-07-01 00:00:00","C,U",1992
+440,"i","Inventory","1977-07-01 00:00:00",NA,NA,1977
+440,"i","Inventory","1981-06-01 00:00:00",NA,"I,U",1981
+440,"i","Inventory","1983-08-08 00:00:00","1983-08-10 00:00:00",NA,1983
+440,"i","Inventory","1984-07-30 00:00:00","1984-08-09 00:00:00",NA,1984
+440,"m","Mapping","1984-09-03 00:00:00","1984-10-16 00:00:00",NA,1984
+440,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00",NA,1985
+440,"h,sw,pr","Shelterwood harvest, prep step--40 acres","1987-05-29 00:00:00","1988-02-26 00:00:00","C",1987
+440,"i","Inventory","1987-06-01 00:00:00",NA,"U,I",1987
+440,"m","Replace Chickadee bird boxes","1987-07-31 00:00:00",NA,"C",1987
+440,"i,rem","Remeasurement inventory","1987-08-03 00:00:00","1987-08-04 00:00:00","C,I,U",1987
+440,"i","Post-harvest forest inventory","1990-08-01 00:00:00",NA,NA,1990
+440,"i","Standard stocking inventory","1990-08-01 00:00:00",NA,NA,1990
+450,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+450,"h,ct","Commercial thinning","1978-07-15 00:00:00","1978-11-01 00:00:00","C",1978
+450,"i,rem","Remeasurement inventory","1983-08-08 00:00:00","1983-08-10 00:00:00","C,U,I",1983
+450,"i,rem","Remeasurement inventory","1984-07-30 00:00:00","1984-08-09 00:00:00","C,U",1984
+450,"m","Mapping","1984-09-03 00:00:00","1984-10-16 00:00:00","C,U",1984
+450,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+450,"h,ct","Commercial thinning--20 acres","1990-03-29 00:00:00","1991-05-31 00:00:00","C",1990
+450,"i","Post-harvest forest inventory","1990-08-01 00:00:00",NA,"C,U,I",1990
+450,"i","Standard stocking inventory","1990-08-01 00:00:00",NA,"C,U",1990
+451,"w,bc","Brush cutting around planted fir","1981-08-01 00:00:00","1981-09-01 00:00:00","C,U",1981
+451,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"C,I,R",1981
+451,"w,bc","Continued brush cutting","1982-06-28 00:00:00","1982-07-12 00:00:00","C",1982
+451,"w,hb,24d","Herbicide app. of 2-4-d on 2/3 of compartment that did not have 6-ft Manz. throughout","1984-07-10 00:00:00",NA,"C,U",1984
+451,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+451,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-08-13 00:00:00",NA,"C",1990
+451,"i,reg","Regeneration survey","1990-08-17 00:00:00",NA,"C,R",1990
+452,"i","Inventory","1977-07-01 00:00:00",NA,"I",1977
+452,"i","Inventory","1983-08-01 00:00:00",NA,"I",1983
+452,"m","Mapping","1984-09-03 00:00:00","1984-10-16 00:00:00","C,U",1984
+452,"i,prt","Fuel inventory","1984-11-15 00:00:00","1984-11-20 00:00:00","C,U",1984
+452,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+452,"i,prt","Basic inventory","1987-09-17 00:00:00","1987-09-22 00:00:00","C,U,I",1987
+452,"stp,sl","Slashing, site preparation","1988-07-12 00:00:00","1988-07-18 00:00:00","C",1988
+452,"cu,p","Hand planting of bare root seedlings","1990-04-09 00:00:00","1990-04-19 00:00:00","C,U",1990
+452,"w,hg","Weeding and hand grubbing","1990-06-07 00:00:00","1990-06-12 00:00:00","C,U",1990
+452,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-08-14 00:00:00",NA,"C",1990
+452,"i,reg","Regeneration survey","1990-08-16 00:00:00","1990-08-22 00:00:00","C,R",1990
+460,"i","Inventory","1980-08-01 00:00:00",NA,"I",1980
+460,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+460,"h,cc","Clearcut harvest","1986-01-01 00:00:00","1988-02-26 00:00:00","C",1986
+460,"i,prt","Basic inventory","1987-09-17 00:00:00","1987-09-22 00:00:00","C,U,I",1987
+460,"m","Flagging of watercourse protection zone, tree marking","1988-05-16 00:00:00",NA,"C,U",1988
+460,"cu","Slashing, site preparation","1988-07-12 00:00:00","1988-07-18 00:00:00","U",1988
+460,"cu,p","Hand planting of bare root seedlings","1990-04-09 00:00:00","1990-04-19 00:00:00","C",1990
+460,"cu","Weeding and hand grubbing","1990-06-07 00:00:00","1990-06-12 00:00:00",NA,1990
+461,"i","Inventory","1980-08-01 00:00:00",NA,"I",1980
+461,"h,f","Firewood harvest","1983-06-01 00:00:00",NA,"C",1983
+461,"i,reg","Regeneration survey","1984-09-01 00:00:00",NA,"R",1984
+461,"m","Estimation of survival rate of three small plantations and measurement of seedlings","1984-09-17 00:00:00","1984-10-09 00:00:00","C,U",1984
+461,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+461,"cu,pct","Thinning--covering 16.7 acres","1989-08-01 00:00:00",NA,"C,U",1989
+461,"cu,pct","Pre-commercial thin of Fields Cobb study area--5 acres","1992-08-14 00:00:00",NA,"C,U",1992
+462,"i","Inventory","1980-08-01 00:00:00",NA,"I",1980
+462,"h,f","Firewood harvest","1983-06-01 00:00:00",NA,"C,U",1983
+462,"i,reg","Regeneration survey","1984-09-01 00:00:00",NA,"R",1984
+462,"m","Estimation of survival rate of three small plantations and measurement of seedlings","1984-09-17 00:00:00","1984-10-09 00:00:00","C,U",1984
+462,"m","Compartment boundaries changed","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+462,"cu,pct","Thinning--covering 16.7 acres","1989-08-01 00:00:00",NA,"C,U",1989
+462,"cu,pct","Pre-commercial thin of Field Cobbs study area","1992-08-14 00:00:00",NA,"C,U",1992
+463,"m","Flagging of a special treatment zone","1988-05-05 00:00:00",NA,"U,C",1988
+470,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+470,"i","Inventory","1980-07-01 00:00:00",NA,"I",1980
+470,"i,rem,est","Plot establishment and remeasurement","1985-06-28 00:00:00",NA,"C,U,I",1985
+470,"i,rem","Remeasurement inventory","1988-08-05 00:00:00",NA,"C,I",1988
+470,"h,sts","Single tree selection harvest--21 acres","1989-04-12 00:00:00","1989-11-15 00:00:00","C",1989
+470,"i,rem","Remeasurement inventory","1989-07-26 00:00:00","1989-07-28 00:00:00","C,I",1989
+471,"i,est","Inventory establishment","1974-07-01 00:00:00",NA,"I",1974
+471,"i","Inventory","1980-07-01 00:00:00",NA,"I",1980
+471,"m","Mapping","1984-09-03 00:00:00","1984-10-16 00:00:00","C,U",1984
+471,"i,rem,est","Plot establishment and remeasurement","1985-10-31 00:00:00","1985-11-01 00:00:00","C,U",1985
+471,"w,hb,gar","Herbicide spray of Garlon on Bear Clover--9 acres","1991-06-17 00:00:00","1991-06-18 00:00:00","C,U",1991
+471,"m","Preparation of compartment for single tree selection harvest","1991-07-10 00:00:00","1991-07-23 00:00:00","C,U",1991
+471,"i,rem","Post-harvest inventory","1993-07-20 00:00:00","1993-07-22 00:00:00","C,U",1993
+480,"w,hb,tor","Herbicide app. of Tordon 101 on Black Oak","1975-08-25 00:00:00","1975-09-05 00:00:00","C",1975
+480,"stp,pi,brn","Slash pile burning","1975-10-10 00:00:00","1975-10-11 00:00:00","C",1975
+480,"i","Inventory","1977-09-01 00:00:00",NA,"U,I",1977
+480,"m","Mapping","1984-09-03 00:00:00","1984-10-16 00:00:00","C,U",1984
+480,"i,reg","Collection of data for regeneration study","1984-10-15 00:00:00","1984-11-07 00:00:00","C,U",1984
+480,"i,prt","Fuel study","1984-11-15 00:00:00","1984-11-20 00:00:00","C",1984
+480,"i,rem,est","Plot establishment and remeasurment","1985-06-18 00:00:00","1985-07-01 00:00:00","C,U,I",1985
+480,"stb,bb","Burning","1986-05-21 00:00:00","1986-05-30 00:00:00","C,U",1986
+480,"w,hb,ru","Herbicide spray of weed species in 4 group cuts of 2 acres each","1989-07-31 00:00:00","1989-08-11 00:00:00","C",1989
+480,"w,hb,gar","Herbicide spray of Garlon on Bear Clover--8 acres","1991-06-13 00:00:00","1991-06-14 00:00:00","C,U",1991
+480,"m","Facilitate relocation of plot centers and tree stumps","1991-06-17 00:00:00","1992-06-18 00:00:00","C,U",1991
+480,"m","Measure area treated by Woody's Enterprises","1991-11-04 00:00:00","1991-11-06 00:00:00","C,U",1991
+480,"cu,p","Hand plant bareroot seedlings","1992-04-13 00:00:00","1992-04-20 00:00:00","C,U",1992
+480,"cu,ip","Interplant mixed conifer bareroot seedlings","1993-04-13 00:00:00","1993-04-16 00:00:00","C,U",1993
+481,"h,or","Overstory removal harvest--20 acres","1975-06-20 00:00:00","1975-08-01 00:00:00","C",1975
+481,"i","Post harvest stocking survey","1975-10-01 00:00:00",NA,"C",1975
+481,"i","Preliminary stocking survey","1977-07-19 00:00:00",NA,"C",1977
+481,"i,reg","Regeneration survey","1979-07-20 00:00:00","1979-07-24 00:00:00","R",1979
+481,"i,reg","Regeneration survey","1980-08-01 00:00:00",NA,"C,U,R",1980
+481,"i,reg","Regeneration survey","1981-08-10 00:00:00","1981-08-11 00:00:00","C,U,R",1981
+481,"i,reg","Regeneration survey","1982-08-25 00:00:00","1982-08-27 00:00:00","R",1982
+481,"i,reg","Regeneration survey","1983-08-29 00:00:00","1982-08-30 00:00:00","R",1983
+481,"m","Surveying","1984-07-18 00:00:00","1984-07-25 00:00:00","C,U",1984
+481,"m","Blister Rust examination","1984-07-20 00:00:00","1984-07-26 00:00:00","C,U",1984
+481,"cu,pct","Precommercial thin of 16 acres","1984-07-25 00:00:00","1984-08-06 00:00:00","C,U",1984
+481,"w,hb,ru","Herbicide spray of Round-up and 24d over 20 acres","1984-08-03 00:00:00","1984-08-16 00:00:00","C,U",1984
+481,"cu,pct","Precommercial thin of 4 acres","1984-08-06 00:00:00","1984-08-07 00:00:00","C,U",1984
+481,"i,rem","Remeasurement inventory","1984-10-30 00:00:00","1984-11-26 00:00:00","C,U",1984
+481,"cu,pct,i","Re-entered compartment to adjust thinning levels--updated tree data sheets","1985-07-08 00:00:00","1985-07-09 00:00:00","C,U,I",1985
+481,"w,hb,gar","Herbicide spray of garlon, triclopyr and 24d on undesirable brush species","1985-08-01 00:00:00",NA,"C,U",1985
+481,"i,rem","Inventory remeasurement","1986-10-23 00:00:00","1986-10-28 00:00:00","C,U,I",1986
+481,"m,rh","Clean up after research","1988-07-01 00:00:00","1988-07-05 00:00:00","C",1988
+481,"i,rem","Remeasurement inventory","1989-08-10 00:00:00","1989-08-16 00:00:00","C,U,I",1989
+490,"i,est","Inventory establishment","1975-06-01 00:00:00",NA,"I",1975
+490,"stp,sl,jp","Jill poking and slash treatment","1980-07-21 00:00:00","1980-08-11 00:00:00","C",1980
+490,"h,gs","Group selection harvest--15 acres","1980-08-01 00:00:00","1980-09-22 00:00:00","C",1980
+490,"i,reg","Regeneration inventory","1983-08-01 00:00:00",NA,"I",1983
+490,"i,est","Inventory establishment","1984-07-27 00:00:00","1984-08-10 00:00:00","C,U,I",1984
+490,"i,rem","Preharvest inventory","1993-06-03 00:00:00","1993-06-25 00:00:00","C,U",1993
+500,"i,est","Inventory establishment","1975-08-01 00:00:00",NA,"I",1975
+500,"h,gs","Group selection harvest--63 acres","1977-06-29 00:00:00","1977-11-01 00:00:00","C",1977
+500,"i","Inventory","1983-08-01 00:00:00",NA,"I",1983
+500,"i,est","Expansion of 3x3 chain grid to 6x6 chain grid","1984-06-13 00:00:00","1984-06-29 00:00:00","C,U,I",1984
+500,"sw,rm","Shelterwood harvest, removal step--59 acres","1986-07-07 00:00:00","1988-12-17 00:00:00","C",1986
+500,"stp,sl","Slashing for future site prep","1987-06-22 00:00:00","1987-06-23 00:00:00","C,U",1987
+500,"i,rem","Remeasurement inventory","1987-08-04 00:00:00","1987-08-07 00:00:00","C,U,I",1987
+501,"m","Tree marking","1986-08-15 00:00:00",NA,"C",1986
+501,"rh,i,est","Set up research plots","1987-06-16 00:00:00","1987-06-18 00:00:00","C,U",1987
+501,"cu,ip","Interplant where '89 seedlings died","1990-05-02 00:00:00","1990-05-03 00:00:00","C,U",1990
+501,"w,hg","Removal of thirsty weeds","1990-06-28 00:00:00","1990-07-05 00:00:00","C,U",1990
+501,"i,est","Expansion of 6 chain grid to a 3 chain grid","1990-07-13 00:00:00",NA,"C",1990
+501,"i,reg","Regeneration survey","1990-07-20 00:00:00","1990-07-24 00:00:00","C,R",1990
+501,"w,hb,gar","Application of garlon to CIVO in south part of compartment--2 acres","1991-06-12 00:00:00",NA,"C,U",1991
+510,"i","Inventory (of compartment 520 before boundaries changed)","1981-07-01 00:00:00",NA,"I",1981
+510,"i","Inventory (of compartment 520 before boundaries changed)","1985-07-01 00:00:00",NA,"I",1985
+510,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+511,"h,f","Firewood harvest","1983-06-01 00:00:00",NA,"C,U",1983
+511,"m","Estimation of survival rate of three small plantations","1984-09-17 00:00:00","1984-10-09 00:00:00","C,U",1984
+511,"i,reg","Regeneration survey","1984-09-27 00:00:00",NA,"R",1984
+511,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+511,"cu,pct","Thinning of three research plots","1989-08-01 00:00:00",NA,"C,U",1989
+511,"cu,pct","Pre-commercial thin of Fields Cobb study area","1992-08-17 00:00:00",NA,"C,U",1992
+520,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+520,"i,est,rem","Plot establishment and remeasurement","1985-07-31 00:00:00","1985-08-02 00:00:00","C,U",1985
+530,"w,hb,tor","Herbicide treatment of Black Oak--17 trees","1975-08-29 00:00:00",NA,"C",1975
+530,"i","Inventory","1977-07-12 00:00:00",NA,"U,I",1977
+530,"m","Surveying of Blodgett Forest/USFS boundary","1980-09-02 00:00:00","1980-09-04 00:00:00","C",1980
+530,"h,or","Overstory removal harvest--36 acres","1981-04-27 00:00:00","1981-10-15 00:00:00","C",1981
+530,"i,rem","Remeasurement inventory","1981-10-01 00:00:00",NA,"I",1981
+530,"i","Inventory","1982-07-01 00:00:00",NA,"I",1982
+530,"i,rem","Remeasurement inventory","1988-08-19 00:00:00",NA,"C,U,I",1988
+530,"m","Ground reconnaissance","1988-08-25 00:00:00","1988-09-30 00:00:00","C",1988
+530,"w,hb,ru","Herbicide spray of RoundUp to Bear Clover--15 acres","1990-06-11 00:00:00","1990-06-14 00:00:00","C,U",1990
+530,"fn,wr","Fence repair","1990-08-23 00:00:00",NA,"C,U",1990
+540,"h,ct,cc","Harvest--commercial thin and clear cut--26 acres","1976-10-18 00:00:00","1977-11-19 00:00:00","C",1976
+540,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+540,"i","Inventory","1979-08-01 00:00:00",NA,"I",1979
+540,"i,reg","Regeneration survey","1979-08-14 00:00:00","1979-08-17 00:00:00",NA,1979
+540,"h,sw,rm","Shelterwood harvest, removal step--31 acres","1985-04-15 00:00:00","0895-04-05 00:00:00","C",1985
+540,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+540,"i,est,rem","Plot establishment and remeasurement","1985-07-30 00:00:00",NA,"C,U,I",1985
+540,"cu,pct","Precommercial thinning","1987-06-04 00:00:00","1987-06-10 00:00:00","C,U",1987
+540,"w,hb,gar","Herbicide spray of Garlon--covering 3 acres","1990-07-26 00:00:00",NA,"C,U",1990
+541,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+541,"i","Inventory","1979-08-01 00:00:00",NA,"U",1979
+541,"i,reg","Regeneration survey","1982-09-01 00:00:00",NA,NA,1982
+541,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+541,"cu,pct","Precommercial thinning","1987-06-04 00:00:00","1987-06-10 00:00:00","C,U",1987
+550,"i","Inventory","1978-09-01 00:00:00",NA,"U,I",1978
+550,"i","Inventory","1983-06-01 00:00:00",NA,NA,1983
+550,"cu","Slashing","1984-10-02 00:00:00","1984-10-05 00:00:00",NA,1984
+550,"stp,pi,tct","Slash and brush piling","1984-10-10 00:00:00",NA,"C,U",1984
+550,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C",1985
+550,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+550,"i,rem","Remeasurement inventory","1993-06-28 00:00:00","1993-06-30 00:00:00","C,U",1993
+551,"stp,pi,tct","Site preparation for herbicide trials","1975-08-01 00:00:00",NA,"C",1975
+551,"i","Inventory","1983-06-01 00:00:00",NA,"I",1983
+551,"i,rem,rh","Conifer-Herbicide tolerance remeasure","1983-07-11 00:00:00","1983-08-15 00:00:00","C,U",1983
+551,"cu,pct","Precommercial thinning","1984-07-16 00:00:00","1984-08-14 00:00:00","C,U",1984
+551,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+551,"i,reg,est","Expansion of 6 chain plots to 3 chain plots","1990-08-17 00:00:00","1990-08-18 00:00:00","C,U,R",1990
+551,"w,hb,gar","Herbicide spray of Garlon on ARPA, CASE, and PREM--covering 11 acres","1992-06-16 00:00:00","1992-07-09 00:00:00","C,U",1992
+552,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+552,"cu,pct","Precommercial thinning","1987-06-10 00:00:00","1987-06-18 00:00:00","C,U",1987
+553,"i","Inventory (of 550 before it was split)","1983-06-01 00:00:00",NA,"I",1983
+553,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+553,"w,hb,24d","Herbicide spray on all non-tree vegetation","1986-07-14 00:00:00",NA,"C",1986
+553,"i,reg","Regeneration survey","1990-07-10 00:00:00",NA,"C,R",1990
+553,"w,hb,gar","Herbicide spray of Garlon covering 7.4 acres","1990-07-17 00:00:00","1990-07-19 00:00:00","C,U",1990
+553,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-07-27 00:00:00",NA,"C,U",1990
+560,"i,est","Inventory","1978-08-24 00:00:00","1978-08-28 00:00:00","I",1978
+560,"h,f","Firewood cutting","1983-06-14 00:00:00","1983-07-01 00:00:00","C,U",1983
+560,"i,prt","Tan Oak volume study","1983-06-27 00:00:00","1983-07-11 00:00:00","C,U",1983
+560,"h,cc","Clearcut harvest--43 acres","1983-08-01 00:00:00","1985-10-30 00:00:00","C",1983
+560,"w,hb,rh","Treatment of Tanbark Oak stumps","1983-08-05 00:00:00","1983-08-09 00:00:00","C,U",1983
+560,"i","Remeasurement of treated Tanbark Oak stumps","1984-06-12 00:00:00","1984-06-18 00:00:00","C,U",1984
+560,"i","Remeasurement of treated Tan Oak sprouts","1984-08-29 00:00:00","1984-08-30 00:00:00","C,U",1984
+560,"stp,sl","Slashing","1984-10-02 00:00:00","1984-10-05 00:00:00","C,U",1984
+560,"stp,brn","Burning of slash piles","1984-10-26 00:00:00",NA,"C,U",1984
+560,"cu,p","Planting","1985-04-15 00:00:00","1985-05-06 00:00:00","C,U",1985
+560,"m","Compartment boundaries changed","1985-06-27 00:00:00",NA,"C,U",1985
+560,"w,hg","Vegetation control for Sequoia-Mananita and Ceanothus study","1985-07-02 00:00:00","1985-07-03 00:00:00","C,U",1985
+560,"i,est,rem","Plot establishment and remeasurement","1985-07-26 00:00:00","1985-07-29 00:00:00","C,U,I",1985
+560,"w,hb,gar","Herbicide spray of Garlon over about 15 acres","1986-07-18 00:00:00",NA,"C",1986
+560,"i,est","Expansion of 6 chain grid to a 3 chain grid","1990-06-25 00:00:00",NA,"U,I",1990
+560,"i,reg","Regeneration survey","1990-06-25 00:00:00","1990-06-26 00:00:00","C,U,R",1990
+560,"w,hb,gar","Herbicide spray--13.6 acres","1990-07-10 00:00:00","1990-07-16 00:00:00","C,U",1990
+560,"i","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+561,"w,bc","Brush cutting","1982-08-23 00:00:00","1982-09-03 00:00:00","C,U",1982
+561,"i,est","Plot establishment for Sequoia release study","1984-07-19 00:00:00","1984-07-24 00:00:00","C,U",1984
+561,"i,rem","Remeasurement inventory","1984-08-03 00:00:00","1984-08-13 00:00:00","C,U",1984
+561,"m","Compartment boundaries changed","1985-06-27 00:00:00",NA,"C,U",1985
+561,"w,hb","Herbicide spray","1985-08-16 00:00:00",NA,"C,U",1985
+561,"cu,pct","Thinning","1986-07-24 00:00:00",NA,"C",1986
+562,"i","Inventory","1978-08-01 00:00:00",NA,"U,I",1978
+562,"i","Inventory","1984-03-01 00:00:00",NA,"I",1984
+562,"m","Compartment boundaries changed","1985-06-27 00:00:00",NA,"C,U",1985
+562,"m","Preparation of compartment for group selection harvest and commercial thin","1991-08-21 00:00:00","1991-09-04 00:00:00","C,U",1991
+563,"m","Compartment boundaries changed","1985-06-27 00:00:00",NA,"C,U",1985
+564,"m","Compartment boundaries changed","1985-06-27 00:00:00",NA,NA,1985
+564,"w,hg,rh","Hand grubbing of non-tree vegetation","1987-06-02 00:00:00",NA,"C,U",1987
+564,"cu","Hand grubbing of Sequoia plantation","1988-06-20 00:00:00","1988-06-27 00:00:00","U",1988
+564,"cu","Vegetation control for Sequoia research","1989-06-06 00:00:00",NA,"U",1989
+570,"i,est","Inventory establishment","1975-08-01 00:00:00",NA,"I",1975
+570,"i","Inventory","1982-07-01 00:00:00",NA,"I",1982
+570,"stp,bb","Prescribed burn","1982-09-01 00:00:00",NA,"C",1982
+570,"h,f","Firewood harvesting","1983-07-25 00:00:00","1983-08-12 00:00:00","C,U",1983
+570,"i","Inventory","1983-09-01 00:00:00",NA,"I",1983
+570,"i,prt","Snag inventory","1984-05-30 00:00:00","1984-06-12 00:00:00","C,U",1984
+570,"h,gs","Group selection harvest--31 acres","1984-08-14 00:00:00","1985-02-01 00:00:00","C",1984
+570,"cu,pct","Precommercial thinning","1988-10-07 00:00:00",NA,"C,U",1988
+570,"i,prt","Snag inventory","1989-06-13 00:00:00","1989-06-20 00:00:00","C,U,I",1989
+570,"i,prt","High Stump Survey","1990-10-01 00:00:00",NA,"C",1990
+580,"i","Inventory","1978-09-01 00:00:00",NA,"U,I",1978
+580,"cu,pct","Precommercial thinning","1983-07-01 00:00:00",NA,"C,U",1983
+580,"cu,ct","Thinning","1985-06-04 00:00:00","1985-06-07 00:00:00","C",1985
+580,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+580,"i","Inventory","1993-11-01 00:00:00",NA,NA,1993
+581,"i","Inventory (of 580 before boundaries changed)","1978-08-01 00:00:00",NA,"I",1978
+581,"h","All merchantable stems cut--30 acres","1981-08-01 00:00:00","1981-11-15 00:00:00","C",1981
+581,"h,stp,pi","Logging with D4D tractor, brush piling, and firewood skidding","1981-08-01 00:00:00","1981-09-01 00:00:00","C",1981
+581,"i,reg","Regeneration survey","1982-09-07 00:00:00",NA,"C,U,R",1982
+581,"i","Remeasurement","1983-06-01 00:00:00",NA,NA,1983
+581,"i,rem","Remeasurement inventory","1983-08-01 00:00:00",NA,"C,U",1983
+581,"m","Compartment boundaries changed","1985-06-28 00:00:00","1985-07-01 00:00:00","C,U",1985
+581,"rh","Brush-Pine competition research","1986-06-05 00:00:00",NA,"C,U",1986
+581,"w,hb,gar","Herbicide app. to ARPA, ARVI/ PTAQ, RIRO, CASE, CHFO, & CIVU, covering 20 acres","1990-07-19 00:00:00","1990-07-26 00:00:00","C,U",1990
+581,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-07-27 00:00:00",NA,"C,U",1990
+581,"i,reg","Regeneration survey","1990-08-12 00:00:00",NA,"C,R",1990
+590,"i,est","Inventory establishment","1975-09-01 00:00:00",NA,"I",1975
+590,"i","Inventory","1976-01-01 00:00:00",NA,NA,1976
+590,"i,rem,est","Plot establishment and remeasurement","1985-07-02 00:00:00","1985-07-09 00:00:00","C,U,I",1985
+590,"h,gs","Group selection harvest--40 acres","1986-05-30 00:00:00","1988-12-17 00:00:00","C",1986
+590,"m","Marking","1986-06-22 00:00:00","1986-06-24 00:00:00","C,U",1986
+590,"stp,sl","Slashing","1987-06-24 00:00:00","1987-06-26 00:00:00","C,U",1987
+590,"i,rem","Remeasurement inventory","1987-07-13 00:00:00","1987-07-15 00:00:00","C,U,I",1987
+590,"w,hb,gar","Herbicide spray in 4 group cuts--approx. 6 acres","1991-06-19 00:00:00","1991-06-20 00:00:00","C,U",1991
+600,"i","Inventory","1981-07-01 00:00:00",NA,"I",1981
+611,"i,reg","Regeneration survey","1968-08-01 00:00:00",NA,"R",1968
+611,"i","Inventory","1978-06-01 00:00:00",NA,"U,I",1978
+611,"cu,pct","Precommercial thin","1980-08-01 00:00:00",NA,"C,U",1980
+611,"i,reg","Regeneration inventory","1981-12-01 00:00:00",NA,"R",1981
+611,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+611,"i","Inventory PP plantation","1987-09-04 00:00:00",NA,"C,U,I",1987
+612,"h,cc","Clearcut harvest--8 acres","1978-07-15 00:00:00","1978-10-01 00:00:00","C",1978
+612,"i","Inventory","1979-08-01 00:00:00",NA,"U,I",1979
+612," i,reg","Regeneration inventory","1979-08-08 00:00:00","1979-08-10 00:00:00","R",1979
+612,"i,reg","Regeneration survey","1980-08-01 00:00:00",NA,"C,R",1980
+612,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"C,R",1981
+612,"m","Compartment boundaries changed","1985-07-03 00:00:00",NA,"C,U",1985
+612,"i,est","Plot establishment","1990-07-12 00:00:00",NA,"C,U",1990
+612,"i,reg","Regeneration survey","1990-07-19 00:00:00","1990-07-20 00:00:00","R",1990
+612,"w,hb,gar","Herbicide spray of Garlon over 6.5 acres","1992-07-02 00:00:00","1992-07-06 00:00:00","C,U",1992
+620,"i","Inventory","1977-08-01 00:00:00",NA,"U,I",1977
+620,"i,rem","Remeasure existing inventory plots","1982-07-13 00:00:00","1982-07-15 00:00:00","C,I",1982
+620,"stp,bb","Pre-logging understory burn","1984-06-26 00:00:00","1984-06-27 00:00:00","C,U",1984
+620,"h,cc","Clearcut harvest--2 acres","1986-04-21 00:00:00","1988-02-26 00:00:00","C",1986
+620,"i","Stocking survey","1986-06-03 00:00:00","1986-06-04 00:00:00","C,U",1986
+620,"cu,ct","Thinning","1986-07-24 00:00:00",NA,"C",1986
+620,"i,reg","Regeneration survey","1990-07-16 00:00:00","1990-07-18 00:00:00","C,R",1990
+620,"i,est","Expansion of 6 chain plots to 3 chain plots","1990-07-26 00:00:00",NA,"C,U",1990
+620,"w,hb,ru","Herbicide spray covering 4 acres","1990-07-31 00:00:00","1990-08-01 00:00:00","C,U",1990
+620,"w,hb,gar","Herbicide spray on ARPA, CECO, and CIVU--17 acres","1992-07-13 00:00:00","1992-07-20 00:00:00","C,U",1992
+621,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+621,"i","Inventory","1982-07-01 00:00:00",NA,"I",1982
+621,"h,cc","Clearcut due to presence of Blackstain Root and Fomes Annosus--8 acres","1988-06-01 00:00:00","1989-11-11 00:00:00","C",1988
+621,"cu,p","Bare root planting","1991-05-06 00:00:00","1991-05-07 00:00:00","C,U",1991
+622,"cu,p","Bareroot tree planting","1991-05-02 00:00:00","1991-05-03 00:00:00","C,U",1991
+623,"i","Inventory","1982-07-01 00:00:00",NA,"U",1982
+623,"m","Location of original plots","1990-07-26 00:00:00",NA,"C,U",1990
+623,"cu,p","Planting","1991-05-02 00:00:00","1991-05-03 00:00:00",NA,1991
+624,"i","Inventory","1982-07-01 00:00:00",NA,"U",1982
+624,"stp,sl","Slashing of 10 acres for site prep","1990-06-29 00:00:00","1990-07-11 00:00:00","C",1990
+624,"m","Location of original plots","1990-07-26 00:00:00",NA,"C,U",1990
+624,"m","Site prep survey: evaluation of litter & duff and compaction","1990-09-17 00:00:00",NA,"C",1990
+624,"stp,pi,bc","Site prep clear cut after logging","1990-09-24 00:00:00",NA,"C",1990
+624,"cu,p","Bareroot planting","1991-04-29 00:00:00","1991-05-02 00:00:00","C,U",1991
+624,"cu,ip","Interplanting of mixed conifer bareroot seedlings","1992-04-20 00:00:00","1992-04-21 00:00:00","C,U",1992
+624,"cu,ip","Planting between existing mixed conifer rows.","1992-04-22 00:00:00",NA,"C,U",1992
+624,"m","Data gathering on four different stock types of Giant Sequoias","1992-06-23 00:00:00","1992-07-01 00:00:00","C,U",1992
+624,"cu,ip","Interplanting of mixed conifer bareroot seedlings","1993-04-16 00:00:00","1993-04-20 00:00:00","C,U",1993
+630,"i","Inventory","1978-08-01 00:00:00",NA,"I",1978
+630,"i","Inventory","1983-06-01 00:00:00",NA,"C",1983
+630,"i,rem","Remeasurement inventory","1985-06-18 00:00:00","1985-07-19 00:00:00","C,U,I",1985
+630,"i,rem","Remeasurement inventory","1993-06-30 00:00:00","1993-06-02 00:00:00","C,U",1993
+640,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+640,"m","Measurement of the area of 1985 clearcut","1985-06-10 00:00:00",NA,"C,U",1985
+640,"w,hb,24d","Herbicide spray on undesireable brush species--30.7 acres covered","1985-08-05 00:00:00","1985-08-22 00:00:00","C,U",1985
+640,"cu,p","Planting","1986-05-09 00:00:00",NA,"C",1986
+640,"stp,sl","Slashing","1988-07-10 00:00:00",NA,"C,U",1988
+640,"i,est","Expansion of 6 chain grid to a 3 chain grid","1990-07-02 00:00:00",NA,"C,U",1990
+640,"i,reg","Regeneration survey","1990-07-13 00:00:00",NA,"C,R",1990
+640,"w,hb,ru","Herbicide spray of RoundUp--35 acres covered","1990-08-01 00:00:00","1990-08-14 00:00:00","C",1990
+641,"m","Road contruction","1975-08-01 00:00:00","1975-09-01 00:00:00",NA,1975
+641,"i","Inventory","1977-07-01 00:00:00",NA,"U,I",1977
+641,"i,reg","Regeneration survey","1979-08-01 00:00:00",NA,"R",1979
+641,"i,reg","Regeneration survey","1980-08-01 00:00:00",NA,"R",1980
+641,"i,reg","Regeneration survey","1981-08-01 00:00:00",NA,"R",1981
+641,"i,reg","Regeneration survey","1981-08-20 00:00:00","1981-08-21 00:00:00","R",1981
+641,"i,reg","Regeneration survey","1982-09-01 00:00:00",NA,"U,R",1982
+641,"w,hb,24d","Herbicide spray of entire compartment","1986-10-13 00:00:00",NA,"U",1986
+641,"i,reg","Regeneration survey","1990-07-01 00:00:00",NA,"R",1990
+641,"i,est","Expansion of existing 6-chain grid to a 3-chain grid","1990-07-06 00:00:00",NA,"U",1990
+641,"cu,p","Interplanting of bareroot seedlings","1993-05-04 00:00:00","1993-05-05 00:00:00","U",1993
+650,"stp,bc","Brush clearing","1975-08-01 00:00:00",NA,"C",1975
+650,"i,est","Establishment of inventory plots","1982-06-28 00:00:00","1982-07-13 00:00:00","C",1982
+650,"i","Inventory","1982-07-01 00:00:00",NA,"I",1982
+660,"i","Inventory","1978-06-01 00:00:00",NA,"U,I",1978
+660,"i,rem","Pre-harvest inventory","1983-07-13 00:00:00",NA,"C,U,I",1983
+660,"m","Marking","1984-07-31 00:00:00","1984-08-03 00:00:00","C,U",1984
+660,"h,sd,rm","Seedtree removal--36 acres","1985-05-01 00:00:00","1985-06-15 00:00:00","C",1985
+670,"i,est","Inventory establishment","1975-08-01 00:00:00",NA,"I",1975
+670,"i,est,rem","Plot expansion and inventory","1983-07-13 00:00:00","1983-07-18 00:00:00","C,U,I",1983
+670,"m","Flagging/Marking","1984-07-30 00:00:00","1984-08-03 00:00:00","C,U",1984
+670,"w,hb,gar","Herbicide spray on ARPA, CECO, CHFO, LIDE, PTAQ, CASE, CIVU, & RIRO--2 acres covered","1991-06-20 00:00:00","1991-06-21 00:00:00","C,U",1991

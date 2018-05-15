@@ -1,0 +1,10 @@
+Trees – Regen: A tally by 2 foot size class for all trees less than 4.5 feet tall and greater than 2 years old.  One record per tree species per inventory.	
+	
+InvID	 primary key
+PlotID	 secondary key
+InvDate	 measurement date
+Species	 Two letter Species Code
+Less than 1 foot	 count of trees of this species less than 1 foot tall
+1 to 3 feet	 count of this species in this height range
+3 to 5 feet	 count of this species in this height range
+Comment	 any relevant information on this species’ regen tallies

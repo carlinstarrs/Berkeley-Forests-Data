@@ -1,0 +1,17 @@
+Plot Inventory Activity: This table contains a record for each activity on a given plot (inventory event).  This table is linked to the PLOTS table by the PlotID field.  All records in this table must have a corresponding record in the PLOTS table.  This table is linked to all other primary data tables by the InvID field.  This is a database generated number that connects all related information back to the inventory activity record.												
+												
+												
+												
+InvID	 relational key field											
+PlotID	 secondary key field.  See PLOTS table											
+Plotnum	 Plot number											
+InvYear	 the inventory Year.  Used to generate summary reports											
+InvDate	 the actual date the plot was measured											
+Plotsize	 The size of the plot in acres.  Usually 0.1, 0.05, or 0.01, but could be others.											
+Crew	 initials of the crew members measuring the plot											
+Crew#	 number of people in the crew											
+InvenType	 N = Normal , R = Regeneration, G = Group regeneration, PH = Post Harvest (only elements that have changed since the last inventory are updated), S = Snag (All snags within the compartment are measured.  Other types may be added in the future.											
+TravelTime	 Crew travel time between plots in hours											
+TotalTime	 Total Crew time measuring the plot											
+Canopy	 Above Ground Tree cover in 5% increments											
+Pcomments	 Other useful information relating to the plot in general or at this measurement											

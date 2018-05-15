@@ -1,0 +1,8 @@
+Understory Vegetation: This table contains information about non-tree vegetation on the plot. A record containing the following information exists for each plant identified on the plot.	
+	
+InvID	 primary key
+PlotID	 secondary key
+InvDate	 measurement date
+Species	 Four character code identifying plant species
+Pcover	 Percent ground cover on the plot to the nearest 5%
+Aveht	 Average height of the species on the plot
